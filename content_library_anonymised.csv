@@ -1,0 +1,652 @@
+id,Ad.Account.Anonymised,Promoted.post.created.date,Ad.creative.object.type,Ad.call_to_action.type,Promoted.post.type,Cost,Impressions,Post.reactions,Post.comments,Post.shares,Ten.second.video.views,X30.second.video.views,Person.,How.many.different.persons.are.visible.,What.about.the.person.s...gender.,Which.category.fits.best.for.this.creative.,How.engaging.is.the.content.,How.entertaining.is.the.content.,How.persuading.is.the.content.,How.informative.is.the.content.,CTA.present.,Sentiment,Topic,GOTV.,Generator..User.generated.or.professional.content.,Use.of.hashtag,Use.of.slogan.or.motto,Direct.reference.to.context,Dominating.color.
+1,NY Climate Collective,13/07/2018,video,NO_CTA,video,6466.11,1616083,674,401,227,168944,56385,Yes,5,Man,Persuading,7,3,9,5,CTA in text,Negative,Social issues,0,Professional,0,0,0,Magenta
+2,Great Rants,12/04/2019,video,NO_CTA,video,3600,1560883,70,6,2,10534,2240,Yes,5,Both,Engaging,9,2,4,2,no CTA at all,Positive,International Politics,1,Professional,0,0,0,Blue
+3,Great Rants,18/04/2019,video,NO_CTA,video,2000,1029651,107,30,15,15332,5306,Yes,5,Both,Engaging,8,3,4,4,no CTA at all,Positive,International Politics,1,Professional,0,0,0,Blue
+4,Great Rants,12/04/2019,video,NO_CTA,video,2000,941177,64,19,6,11843,3195,Yes,5,Both,Persuading,6,3,8,4,no CTA at all,Positive,International Politics,1,Professional,0,0,0,Blue
+5,Great Rants,12/04/2019,video,NO_CTA,video,2000,920723,87,15,6,8481,2252,Yes,5,Woman,Engaging,8,3,6,2,no CTA at all,Positive,Environment,1,Professional,0,0,0,Blue
+6,Great Rants,15/04/2019,video,NO_CTA,video,1673.68,820207,53,9,5,5677,1516,Yes,5,Both,Engaging,8,2,6,3,no CTA at all,Positive,Social issues,1,Professional,0,0,0,Blue
+7,NY Climate Collective,08/10/2018,photo,NO_CTA,photo,4360.49,689043,4011,670,645,0,0,Yes,1,Woman,Persuading,3,2,8,1,no CTA at all,Neutral,Social issues,0,Professional,0,0,0,Magenta
+8,Great Rants,12/04/2019,video,NO_CTA,video,1379.81,607651,49,3,5,5256,1438,Yes,5,Both,Engaging,8,2,6,2,no CTA at all,Positive,Other,1,Professional,0,0,0,Blue
+9,NY Climate Collective,01/03/2018,video,learn_more,video,5000,576576,1974,133,337,70913,34250,Yes,3,Both,Engaging,10,3,5,2,CTA in both,Positive,Finance,0,Professional,0,0,0,Magenta
+10,Great Rants,22/03/2019,video,NO_CTA,video,4931.98,564198,1751,375,479,60866,21332,Yes,5,Both,Persuading,2,1,8,1,no CTA at all,Positive,International Politics,1,Professional,0,0,0,Red
+11,NY Climate Collective,25/07/2018,video,NO_CTA,video,1700,527326,243,93,131,23921,23921,No,0,No person,Persuading,1,2,9,3,no CTA at all,Negative,Finance,0,Professional,0,0,0,Magenta
+12,Great Rants,04/05/2019,photo,NO_CTA,photo,911.02,487263,94,34,8,0,0,Yes,1,Woman,Persuading,3,1,7,1,no CTA at all,Positive,Social issues,1,Professional,0,0,0,Blue
+13,NY Climate Collective,12/01/2018,video,learn_more,video,1237.94,477650,0,0,0,5161,4306,No,0,No person,Persuading,1,4,9,3,no CTA at all,Negative,Finance,0,Professional,0,0,0,Magenta
+14,Heschsoft,21/03/2019,video,NO_CTA,video,1107.94,443306,191,25,18,5193,1002,No,0,No person,Engaging,10,1,5,2,CTA in both,Positive,Social issues,0,Professional,0,0,0,Purple
+15,Great Rants,15/03/2019,photo,NO_CTA,photo,2379.64,437993,623,95,64,0,0,Yes,5,Both,Persuading,1,1,7,1,no CTA at all,Positive,Environment,0,Professional,0,0,0,Red
+16,Great Rants,14/05/2019,video,NO_CTA,video,1487.4,427243,822,152,93,22419,6516,Yes,2,Both,Persuading,2,1,9,4,no CTA at all,Positive,Finance,0,Professional,0,0,0,White
+17,NY Climate Collective,22/02/2018,video,learn_more,video,3338.74,424058,4459,78,13,18508,8352,Yes,0,No person,Engaging,1,1,1,1,no CTA at all,Neutral,Other,0,Review needed,0,0,0,Black
+18,Great Rants,18/04/2019,video,NO_CTA,video,1963.7,393356,836,279,126,77884,40861,Yes,5,Both,Persuading,5,2,9,2,no CTA at all,Positive,International Politics,1,Professional,0,0,0,Blue
+19,Great Rants,15/04/2019,video,NO_CTA,video,2000,391671,556,302,67,42188,17426,Yes,5,Woman,Persuading,3,2,9,3,no CTA at all,Positive,Environment,1,Professional,0,0,0,Blue
+21,NY Climate Collective,17/01/2019,video,subscribe,video,480.59,382751,0,0,1,2873,1954,Yes,5,Both,Engaging,10,2,5,2,CTA in creative,Positive,No topic,0,Professional,0,0,0,Magenta
+22,Heschsoft,28/03/2019,video,NO_CTA,video,567.84,365647,64,8,4,3283,1110,No,0,No person,Engaging,9,2,6,1,CTA in creative,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,Purple
+23,Great Rants,16/04/2019,photo,NO_CTA,photo,1210.01,352382,349,37,29,0,0,Yes,3,Both,Persuading,1,1,9,1,no CTA at all,Positive,Infrastructure,0,Professional,0,0,0,Blue
+24,Great Rants,23/08/2018,video,NO_CTA,video,1200,351897,1100,159,375,76127,48757,Yes,2,Man,Engaging,8,2,7,1,CTA in text,Positive,Social issues,0,Professional,0,0,0,Green
+25,Spartan Consulting,28/03/2019,video,NO_CTA,video,1031.48,335267,632,374,173,32126,17101,Yes,5,Both,Persuading,6,2,8,2,no CTA at all,Positive,International Politics,1,Professional,0,0,0,Blue
+26,NY Climate Collective,14/03/2019,video,NO_CTA,video,1301.75,334223,274,114,119,18396,18396,Yes,5,Both,Persuading,5,3,9,1,CTA in both,Negative,Social issues,0,Professional,0,0,0,Magenta
+28,Heschsoft,01/04/2019,video,NO_CTA,video,469.67,326881,35,15,3,5313,5313,No,0,No person,Persuading,2,1,7,3,no CTA at all,Positive,Security,0,Professional,0,0,0,Purple
+29,NY Climate Collective,15/03/2019,video,NO_CTA,video,951.91,326707,663,87,196,94788,94788,No,0,No person,Informing,2,4,4,7,CTA in text,Neutral,Social issues,0,Professional,0,0,0,Magenta
+30,Great Rants,15/04/2019,video,NO_CTA,video,2000,322488,458,249,78,37846,15265,Yes,1,Woman,Persuading,4,2,9,3,CTA in text,Positive,Infrastructure,0,Professional,0,0,0,Blue
+32,Great Rants,23/05/2019,video,NO_CTA,video,2113.44,305424,283,122,45,35112,8159,No,0,No person,Persuading,4,7,9,1,no CTA at all,Positive,Finance,1,Professional,1,1,1,White
+34,Heschsoft,05/04/2019,video,NO_CTA,video,452.73,300324,28,3,1,6794,6794,No,0,No person,Persuading,1,1,9,3,no CTA at all,Neutral,Finance,0,Professional,1,0,0,White
+35,Great Rants,12/04/2019,video,NO_CTA,video,1800.08,295119,1294,275,73,36765,11623,Yes,1,Woman,Persuading,2,1,9,1,no CTA at all,Positive,Environment,0,User generated,1,0,0,Other
+37,Great Rants,06/04/2019,photo,NO_CTA,photo,741.93,278994,103,25,6,0,0,Yes,1,Woman,Persuading,1,1,7,2,no CTA at all,Neutral,International Politics,0,Professional,1,0,0,Black
+38,Great Rants,18/04/2019,photo,NO_CTA,photo,849.45,274801,405,60,29,0,0,Yes,1,Woman,Persuading,1,1,9,5,no CTA at all,Positive,Finance,0,Professional,1,0,0,Blue
+40,Great Rants,23/05/2019,photo,NO_CTA,photo,1621.79,258010,277,66,20,0,0,Yes,3,Woman,Persuading,4,1,9,1,no CTA at all,Positive,Social issues,1,Professional,1,0,1,Blue
+41,Great Rants,08/04/2019,video,learn_more,video,2060.97,252585,70,27,2,15892,8205,Yes,1,Woman,Persuading,1,1,7,3,no CTA at all,Negative,Social issues,0,Review needed,0,1,0,Blue
+43,NY Climate Collective,27/06/2019,link,NO_CTA,share,353.42,239434,169,69,24,0,0,No,0,No person,Informing,6,2,5,9,CTA in text,Positive,Environment,0,Professional,1,0,0,Blue
+44,NY Climate Collective,22/08/2019,link,NO_CTA,share,925.53,238734,404,69,73,0,0,Yes,5,Both,Informing,5,1,5,9,CTA in text,Positive,Other,0,Professional,1,0,0,Blue
+45,Great Rants,10/05/2019,photo,NO_CTA,photo,657.47,232122,101,24,15,0,0,Yes,2,Both,Persuading,1,1,7,3,no CTA at all,Positive,Finance,0,Professional,1,0,0,Black
+47,Great Rants,17/05/2019,video,NO_CTA,video,1235.32,227169,186,75,12,9295,2404,Yes,5,Both,Persuading,2,1,9,4,no CTA at all,Positive,Other,1,Professional,1,0,1,Blue
+48,NY Climate Collective,17/04/2019,photo,NO_CTA,photo,518.85,223668,581,318,126,0,0,No,0,No person,Informing,1,5,5,9,no CTA at all,Negative,Finance,0,Professional,0,0,0,Magenta
+49,NY Climate Collective,16/05/2018,photo,message_page,photo,700.84,222457,2368,210,1142,0,0,No,0,No person,Informing,1,2,4,9,no CTA at all,Negative,Finance,0,Professional,1,0,0,Magenta
+50,Heschsoft,08/04/2019,video,NO_CTA,video,357.66,217921,41,9,2,2525,553,No,0,No person,Engaging,8,1,7,4,CTA in creative,Positive,Security,0,Professional,1,0,0,Purple
+51,NY Climate Collective,05/06/2018,photo,message_page,photo,1000,215201,12,2,5,0,0,No,0,No person,Persuading,1,1,10,9,no CTA at all,Negative,Finance,0,Professional,1,0,1,Magenta
+52,NY Climate Collective,02/02/2018,video,learn_more,video,600,210501,1297,123,303,22395,4842,Yes,5,Both,Persuading,4,1,8,3,CTA in both,Positive,Finance,0,Professional,0,0,0,Magenta
+53,Grece Foundation,08/01/2018,video,NO_CTA,video,735.61,210381,248,34,40,6862,2864,Yes,5,Man,Entertaining,3,9,7,6,CTA in text,Positive,Social issues,0,Professional,0,0,0,White
+55,Ted Hansen Campaign,07/08/2018,video,NO_CTA,video,643.05,207664,40,4,7,11698,2800,Yes,5,Both,Persuading,1,2,9,4,no CTA at all,Positive,Economy,0,Professional,0,0,0,Grey
+56,Grece Foundation,16/01/2019,photo,NO_CTA,photo,443.2,202569,14,2,1,0,0,Yes,5,Both,Persuading,5,1,8,3,CTA in text,Positive,Economy,0,Professional,0,0,0,Black
+57,Great Rants,06/03/2019,photo,NO_CTA,photo,559.62,202484,1943,325,285,0,0,Yes,1,Woman,Persuading,1,1,9,3,no CTA at all,Positive,Social issues,0,Professional,0,0,0,Grey
+58,NY Climate Collective,16/10/2018,link,NO_CTA,share,443.91,202331,658,58,34,0,0,No,0,No person,Informing,4,1,6,9,CTA in text,Neutral,Finance,0,Professional,0,0,0,Magenta
+61,NY Climate Collective,09/10/2018,photo,NO_CTA,photo,575.19,192477,348,114,52,0,0,No,0,No person,Persuading,5,1,7,1,CTA in text,Neutral,"Innovation, science and digitalization",0,Professional,0,0,0,Magenta
+62,Heschsoft,26/08/2019,video,NO_CTA,video,417.24,191727,49,4,3,1904,484,Yes,5,Both,Persuading,4,1,9,1,CTA in text,Positive,Infrastructure,0,Professional,1,0,0,Blue
+63,Heschsoft,19/03/2019,photo,NO_CTA,photo,518.34,188707,1502,143,329,0,0,No,0,No person,Engaging,9,1,6,1,CTA in creative,Positive,Security,0,Professional,1,0,0,Black
+65,Great Rants,23/05/2019,photo,NO_CTA,photo,1314.29,187337,143,47,14,0,0,Yes,1,Woman,Persuading,3,1,9,1,no CTA at all,Positive,Social issues,1,Professional,1,0,1,Blue
+66,Great Rants,07/05/2019,link,learn_more,share,1311.26,186189,1178,247,208,0,0,Yes,1,Woman,Persuading,1,1,9,3,no CTA at all,Negative,Education,0,Professional,0,0,0,Blue
+67,Great Rants,19/05/2019,photo,NO_CTA,photo,500.04,184623,212,21,20,0,0,Yes,2,Woman,Persuading,1,1,9,1,no CTA at all,Positive,Social issues,0,Professional,1,0,0,White
+68,NY Climate Collective,13/03/2019,video,NO_CTA,video,362.28,182036,106,166,33,9906,3426,Yes,1,Man,Persuading,2,1,8,3,CTA in both,Positive,Social issues,0,Professional,1,0,0,Magenta
+69,Loto Paper Laundry,16/11/2018,video,NO_CTA,video,1586.42,181687,1343,317,263,25981,8184,Yes,5,Both,Persuading,2,1,8,5,no CTA at all,Positive,Social issues,0,Professional,0,0,0,White
+70,Heschsoft,31/01/2019,video,NO_CTA,video,200,180537,31,1,2,1357,288,Yes,1,Man,Persuading,1,2,9,3,no CTA at all,Positive,Security,0,Professional,0,0,0,Grey
+71,NY Climate Collective,10/04/2019,video,NO_CTA,video,468.59,178621,598,347,440,39108,33187,Yes,1,Woman,Informing,1,1,5,8,no CTA at all,Positive,Social issues,0,Professional,0,0,0,Blue
+72,Great Rants,19/03/2019,link,learn_more,share,1110.31,175914,865,243,204,0,0,Yes,5,Both,Persuading,1,1,9,4,no CTA at all,Negative,Social issues,0,Professional,0,0,0,Blue
+73,NY Climate Collective,09/04/2019,video,NO_CTA,video,403.22,175374,23,13,1,8783,6416,Yes,2,Both,Entertaining,2,8,5,1,no CTA at all,Negative,Social issues,0,Professional,0,0,0,Magenta
+75,Great Rants,13/05/2019,photo,NO_CTA,photo,696.9,174882,492,36,5,0,0,Yes,1,Woman,Persuading,1,2,8,1,no CTA at all,Positive,Education,0,User generated,1,0,0,Black
+77,Cargill Entertainment,15/06/2018,photo,NO_CTA,photo,356.6,174343,48,2,2,0,0,Yes,5,Both,Informing,3,1,4,9,CTA in text,Neutral,International Politics,0,Professional,0,0,0,Yellow
+78,Narisoft,17/10/2018,photo,NO_CTA,photo,825.25,174301,5026,306,1158,0,0,Yes,1,Man,Engaging,10,3,5,2,CTA in both,Positive,Environment,0,Professional,0,0,1,Yellow
+79,Great Rants,13/05/2019,photo,NO_CTA,photo,427.68,171698,73,21,7,0,0,Yes,1,Woman,Persuading,1,1,9,3,no CTA at all,Positive,Finance,0,Professional,1,0,0,Red
+80,Loto Paper Laundry,30/12/2018,video,NO_CTA,video,1001.7,169762,1479,386,97,20498,5561,Yes,5,Both,Persuading,5,3,8,2,CTA in text,Positive,Social issues,0,Professional,0,0,0,Blue
+81,Ted Hansen Campaign,21/01/2019,video,NO_CTA,video,433.21,169152,17,5,2,2472,705,Yes,5,Both,Informing,1,2,7,8,no CTA at all,Positive,Economy,0,Professional,0,1,0,Blue
+82,Ted Hansen Campaign,13/02/2019,video,NO_CTA,video,412.45,168884,31,5,7,15545,15545,No,0,No person,Persuading,1,6,9,2,no CTA at all,Negative,Economy,0,Professional,0,1,0,Yellow
+84,NY Climate Collective,28/06/2019,photo,NO_CTA,photo,344.54,166534,2075,380,1009,0,0,No,0,No person,Informing,2,2,6,9,CTA in text,Positive,Environment,0,Professional,0,0,0,Magenta
+85,Grece Foundation,07/06/2019,photo,NO_CTA,photo,214.75,164975,664,1,10,0,0,No,0,No person,Persuading,2,2,6,5,no CTA at all,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,Blue
+86,Heschsoft,27/08/2018,video,like_page,video,700,164482,965,144,61,4461,1837,Yes,5,Both,Engaging,9,1,4,2,CTA in both,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,White
+87,Ted Hansen Campaign,11/03/2019,video,NO_CTA,video,370.76,162991,25,3,7,13272,3396,Yes,5,Both,Persuading,2,2,7,3,no CTA at all,Positive,Economy,0,Professional,0,1,0,Blue
+88,NY Climate Collective,20/03/2019,video,NO_CTA,video,585.88,162333,200,97,72,28678,21142,Yes,1,Man,Persuading,1,3,9,5,CTA in both,Negative,Social issues,0,Professional,1,0,0,Magenta
+91,NY Climate Collective,22/02/2019,video,NO_CTA,video,306.01,160673,73,21,59,6453,6453,No,0,No person,Persuading,2,2,9,7,CTA in text,Negative,Finance,0,Professional,1,0,0,Magenta
+93,NY Climate Collective,18/03/2019,video,NO_CTA,video,474.41,158435,97,33,10,8680,6925,Yes,1,Man,Persuading,2,4,9,2,CTA in both,Negative,Social issues,0,Professional,1,0,0,Magenta
+94,Great Rants,24/05/2019,photo,NO_CTA,photo,1188.22,156594,257,94,18,0,0,Yes,1,Woman,Persuading,3,1,9,2,no CTA at all,Positive,International Politics,1,Professional,1,0,0,Blue
+95,NY Climate Collective,11/10/2018,video,NO_CTA,video,1105.96,155059,78,52,16,23605,9127,No,0,No person,Engaging,9,3,5,2,CTA in text,Positive,Finance,0,Professional,1,0,0,White
+96,Great Rants,24/05/2019,photo,NO_CTA,photo,1016.51,154510,126,38,4,0,0,Yes,4,Both,Persuading,3,1,9,2,no CTA at all,Positive,International Politics,1,Professional,1,0,1,Blue
+97,Heschsoft,26/07/2018,video,NO_CTA,video,175,153557,56,1,2,2081,613,Yes,5,Both,Persuading,1,4,9,3,no CTA at all,Positive,Health and lifestyle,0,Professional,0,0,0,Blue
+99,Grece Foundation,30/08/2019,photo,NO_CTA,photo,228.59,152616,3,0,0,0,0,No,0,No person,Informing,5,1,1,8,CTA in text,Positive,Economy,0,Professional,1,0,0,Blue
+100,Pierce Associates,05/09/2019,photo,NO_CTA,photo,338.74,151593,41,25,4,0,0,Yes,1,Woman,Persuading,2,2,7,5,no CTA at all,Negative,Education,0,Professional,1,0,0,Blue
+101,NY Climate Collective,07/12/2018,photo,NO_CTA,photo,705.92,150015,1801,431,216,0,0,Yes,3,Both,Persuading,3,1,8,4,CTA in text,Positive,Finance,0,Professional,0,0,0,Magenta
+102,NY Climate Collective,27/03/2019,link,NO_CTA,share,477.57,146553,683,287,155,0,0,No,0,No person,Informing,5,1,3,8,CTA in text,Positive,International Politics,1,Professional,1,0,1,Blue
+103,NY Climate Collective,06/08/2018,photo,NO_CTA,photo,315.94,145250,810,284,259,0,0,No,0,No person,Persuading,3,1,8,5,no CTA at all,Negative,Finance,0,Professional,0,0,0,Magenta
+104,NY Climate Collective,11/06/2019,video,NO_CTA,video,290.37,145031,90,25,24,23964,23964,No,0,No person,Informing,2,2,7,8,CTA in text,Positive,Social issues,0,Professional,1,0,0,Magenta
+105,NY Climate Collective,08/11/2018,photo,NO_CTA,photo,781.35,144045,1373,191,243,0,0,No,0,No person,Persuading,1,5,8,3,no CTA at all,Negative,Social issues,0,Professional,1,0,0,Magenta
+106,NY Climate Collective,15/08/2019,photo,NO_CTA,photo,164.44,144043,13,5,6,0,0,No,0,No person,Informing,5,3,2,8,CTA in text,Positive,Education,0,Professional,1,0,0,Green
+107,Cargill Entertainment,09/03/2018,photo,NO_CTA,photo,581.1,142769,141,30,5,0,0,Yes,1,Man,Persuading,2,1,6,4,CTA in text,Positive,Economy,0,Professional,0,0,0,Blue
+108,NY Climate Collective,10/09/2019,photo,NO_CTA,photo,298.38,141816,23,4,1,0,0,No,0,No person,Informing,2,2,2,8,CTA in text,Positive,Finance,0,Professional,0,0,0,Magenta
+109,Grece Foundation,22/02/2019,photo,NO_CTA,photo,309.23,141191,393,19,49,0,0,No,0,No person,Persuading,2,2,7,4,no CTA at all,Positive,Finance,0,Professional,0,0,0,Blue
+110,NY Climate Collective,07/06/2019,video,NO_CTA,share,276.51,139300,377,69,49,0,0,Yes,1,Man,Informing,5,1,2,8,CTA in text,Positive,Economy,0,Professional,1,0,0,Grey
+112,NY Climate Collective,15/05/2018,link,NO_CTA,share,500,138600,1208,145,73,0,0,No,0,No person,Informing,2,2,2,8,CTA in text,Positive,Economy,0,Professional,0,0,0,Magenta
+115,Cargill Entertainment,10/01/2019,photo,NO_CTA,photo,426.15,136440,203,13,18,0,0,No,0,No person,Informing,1,1,4,9,no CTA at all,Positive,Economy,0,Professional,0,0,0,White
+116,Grece Foundation,19/10/2018,video,NO_CTA,video,307.17,134370,31,0,2,1857,645,Yes,5,Both,Entertaining,3,7,1,5,CTA in text,Positive,Economy,0,Professional,0,0,0,Grey
+117,Grece Foundation,25/10/2018,link,NO_CTA,share,377.37,133751,470,46,129,0,0,Yes,1,Man,Informing,3,1,8,6,CTA in text,Positive,Finance,0,Professional,0,0,0,Grey
+118,Cargill Entertainment,14/03/2019,photo,NO_CTA,photo,313.68,133160,428,44,56,0,0,No,0,No person,Informing,1,2,3,9,no CTA at all,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,Blue
+119,NY Climate Collective,17/05/2019,video,NO_CTA,video,620.17,132893,113,79,40,12526,12526,Yes,2,Man,Persuading,2,3,9,5,CTA in both,Negative,Finance,0,Professional,1,0,0,Magenta
+120,Grece Foundation,22/03/2019,photo,NO_CTA,photo,264.17,132137,633,177,115,0,0,No,0,No person,Informing,3,2,7,9,CTA in text,Negative,Finance,0,Professional,0,0,0,White
+121,NY Climate Collective,14/05/2019,video,NO_CTA,video,284.47,131100,204,123,172,16699,16699,Yes,2,Both,Persuading,3,2,8,5,CTA in both,Negative,Finance,0,Professional,1,0,0,Magenta
+122,Sound Green Toronto,16/05/2019,status,NO_CTA,album,384.32,130974,248,11,6,0,0,Yes,5,Man,Persuading,1,1,8,3,no CTA at all,Positive,Economy,0,Professional,0,0,0,Black
+123,NY Climate Collective,01/02/2018,video,learn_more,video,741.08,130942,324,29,76,33439,13188,Yes,5,Both,Persuading,2,1,6,3,no CTA at all,Positive,Finance,0,Professional,1,0,0,Magenta
+125,NY Climate Collective,28/09/2018,photo,NO_CTA,photo,556.87,130128,553,58,143,0,0,No,0,No person,Persuading,1,1,7,2,no CTA at all,Negative,Finance,0,Professional,1,0,0,White
+126,NY Climate Collective,19/07/2018,photo,NO_CTA,photo,375.08,129570,553,119,32,0,0,No,0,No person,Informing,1,1,4,8,CTA in text,Positive,Economy,0,Professional,0,0,0,Magenta
+127,NY Climate Collective,01/07/2019,photo,NO_CTA,photo,211.95,128391,380,175,57,0,0,No,0,No person,Informing,3,1,3,9,CTA in text,Negative,Environment,0,Professional,0,0,0,Grey
+128,NY Climate Collective,22/02/2018,video,learn_more,video,723.25,127375,533,73,164,19382,8908,Yes,5,Both,Persuading,2,2,7,4,no CTA at all,Positive,Finance,0,Professional,1,0,0,Magenta
+129,Heschsoft,04/04/2019,video,NO_CTA,video,195.2,127280,13,4,2,1813,371,No,0,No person,Persuading,1,1,8,5,CTA in text,Positive,Security,0,Professional,1,0,0,Purple
+130,NY Climate Collective,06/05/2019,video,NO_CTA,video,240.17,127013,49,14,4,2651,2651,No,0,No person,Persuading,1,1,6,4,CTA in text,Positive,International Politics,1,Professional,1,0,1,Blue
+131,Grece Foundation,05/10/2018,photo,NO_CTA,photo,316.91,126608,6,0,0,0,0,Yes,1,Woman,Informing,2,1,6,8,CTA in text,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,Blue
+132,NY Climate Collective,07/06/2018,video,message_page,video,548.03,126405,138,72,18,15411,6735,Yes,2,Both,Persuading,1,1,8,4,CTA in both,Positive,Economy,0,Professional,0,0,0,Magenta
+133,Ted Hansen Campaign,25/04/2019,photo,NO_CTA,photo,327.47,125312,1297,177,53,0,0,No,0,No person,Engaging,8,6,1,2,CTA in creative,Neutral,Economy,0,Professional,0,0,0,Yellow
+134,NY Climate Collective,25/04/2019,photo,NO_CTA,photo,321.03,125287,378,68,89,0,0,No,0,No person,Informing,2,3,5,8,CTA in text,Neutral,Economy,0,Professional,0,0,0,Magenta
+135,NY Climate Collective,09/10/2018,video,NO_CTA,video,662.85,123524,89,107,30,11392,3008,Yes,1,Man,Persuading,1,1,9,7,CTA in text,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,Magenta
+136,Loto Paper Laundry,06/12/2018,video,NO_CTA,video,1056.15,122387,1415,616,104,25838,7684,Yes,5,Both,Persuading,2,1,9,3,no CTA at all,Positive,Other,1,Professional,0,0,0,Blue
+137,Great Rants,03/05/2019,photo,NO_CTA,photo,263.77,122225,110,40,17,0,0,Yes,1,Woman,Persuading,1,1,7,3,no CTA at all,Positive,Economy,1,Professional,1,0,0,Blue
+139,Grece Foundation,05/04/2019,video,NO_CTA,share,194.76,119923,47,1,3,0,0,Yes,2,Both,Informing,2,1,4,8,CTA in text,Positive,Economy,0,Professional,0,0,0,Grey
+140,NY Climate Collective,31/05/2018,video,NO_CTA,video,537.02,118983,164,33,39,3099,3099,Yes,3,Both,Engaging,9,3,1,1,CTA in both,Positive,No topic,0,Professional,0,0,0,Magenta
+141,Loto Paper Laundry,01/11/2018,video,NO_CTA,video,595.68,116634,1128,541,95,19732,8264,Yes,5,Both,Persuading,4,1,8,2,no CTA at all,Positive,Other,1,Professional,0,0,0,Blue
+142,Heschsoft,05/09/2018,video,NO_CTA,video,174.86,116465,89,11,8,2047,676,Yes,5,Both,Persuading,5,2,7,3,CTA in creative,Positive,Economy,0,Professional,0,0,0,Blue
+143,NY Climate Collective,15/07/2019,photo,NO_CTA,photo,131.65,115613,26,0,1,0,0,No,0,No person,Engaging,9,2,4,1,CTA in text,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,Magenta
+144,Grece Foundation,31/08/2018,photo,NO_CTA,photo,247.16,114483,14,2,2,0,0,Yes,2,Both,Persuading,4,1,7,3,CTA in text,Positive,Health and lifestyle,0,Professional,0,0,0,White
+145,Grece Foundation,18/03/2019,photo,NO_CTA,photo,211.71,114343,172,48,31,0,0,No,0,No person,Informing,4,2,4,8,CTA in text,Positive,Social issues,0,Professional,0,0,0,Blue
+146,Heschsoft,27/08/2019,photo,NO_CTA,photo,290.82,114280,24,18,3,0,0,No,0,No person,Persuading,3,1,9,4,CTA in text,Positive,Infrastructure,0,Professional,1,0,0,Purple
+147,Ted Hansen Campaign,30/05/2019,photo,NO_CTA,photo,236.79,114015,1017,184,50,0,0,No,0,No person,Engaging,9,4,2,2,CTA in creative,Neutral,Economy,0,Professional,0,0,0,Blue
+148,NY Climate Collective,09/05/2018,photo,NO_CTA,photo,508.46,114007,1495,107,335,0,0,No,0,No person,Engaging,9,2,1,1,CTA in both,Positive,Finance,0,Professional,0,0,0,Grey
+149,NY Climate Collective,28/09/2018,link,NO_CTA,status,312.81,113649,154,38,14,0,0,No,0,No person,Engaging,9,1,4,3,CTA in text,Neutral,Finance,0,Professional,1,0,0,White
+150,NY Climate Collective,26/02/2019,link,NO_CTA,status,242.4,112993,8,9,2,2751,549,Yes,5,Both,Informing,2,1,5,6,CTA in text,Positive,Economy,0,Professional,0,0,0,Magenta
+151,NY Climate Collective,19/03/2019,video,NO_CTA,video,337.24,112076,44,23,5,7682,1261,Yes,5,Both,Persuading,2,1,8,4,CTA in text,Positive,Economy,0,Professional,0,0,0,Magenta
+152,NY Climate Collective,24/01/2018,link,learn_more,share,1425.07,111863,527,199,146,0,0,Yes,2,Both,Engaging,7,1,3,1,CTA in both,Positive,Finance,0,Professional,0,0,0,Magenta
+153,NY Climate Collective,22/11/2018,photo,NO_CTA,photo,272.42,111426,21,5,2,0,0,No,0,No person,Informing,3,1,6,9,CTA in text,Positive,Finance,0,Professional,0,0,0,Magenta
+155,Ted Hansen Campaign,22/08/2019,photo,NO_CTA,photo,178.45,110817,13,8,0,0,0,Yes,1,Man,Persuading,2,1,8,3,no CTA at all,Positive,International Politics,0,Professional,0,0,0,Blue
+156,Grece Foundation,22/10/2018,link,NO_CTA,share,277.23,110761,82,6,17,0,0,No,0,No person,Informing,1,1,5,9,no CTA at all,Negative,Social issues,0,Professional,0,0,0,Blue
+157,Great Rants,17/10/2018,video,NO_CTA,video,400,110691,174,33,14,3575,937,Yes,1,Woman,Persuading,2,1,9,4,no CTA at all,Positive,International Politics,1,Professional,0,0,1,White
+158,NY Climate Collective,11/06/2019,link,NO_CTA,share,259.5,110035,472,157,63,0,0,Yes,1,Man,Informing,2,1,5,9,CTA in text,Positive,Environment,0,Professional,0,0,0,Black
+160,Great Rants,03/05/2019,link,learn_more,share,944.09,108592,100,94,11,0,0,Yes,1,Woman,Engaging,9,1,2,5,CTA in creative,Positive,International Politics,1,Professional,0,0,0,Blue
+162,Liberty House,11/01/2019,photo,NO_CTA,photo,357.11,107373,360,89,42,0,0,No,0,No person,Persuading,1,2,9,7,no CTA at all,Positive,Education,0,Professional,0,0,0,Grey
+163,Ted Hansen Campaign,21/09/2018,video,NO_CTA,video,409.97,106980,112,4,18,13428,4280,Yes,2,Man,Persuading,1,1,9,7,no CTA at all,Positive,Environment,0,Professional,0,1,0,White
+164,NY Climate Collective,25/01/2018,video,learn_more,video,1397.18,104698,94,4,9,12768,4910,Yes,5,Both,Engaging,8,3,5,2,CTA in text,Positive,Finance,0,Professional,1,0,0,Magenta
+166,Ted Hansen Campaign,22/03/2019,video,NO_CTA,video,250.66,103539,22,7,2,11966,11966,No,0,No person,Informing,1,2,5,8,no CTA at all,Positive,Economy,0,Professional,0,1,0,Grey
+166,Ted Hansen Campaign,22/03/2019,video,NO_CTA,video,250.66,103539,22,7,2,11966,11966,No,0,No person,Informing,3,1,5,9,CTA in text,Positive,Economy,1,Professional,0,0,1,Magenta
+167,NY Climate Collective,27/04/2018,video,NO_CTA,video,497.33,103376,119,49,21,10657,2322,Yes,1,Man,Persuading,2,1,8,6,CTA in text,Positive,Economy,0,Professional,0,0,0,Magenta
+168,Ted Hansen Campaign,20/08/2019,photo,NO_CTA,photo,152.75,103077,33,6,1,0,0,Yes,1,Woman,Persuading,1,1,9,3,no CTA at all,Neutral,Economy,0,Professional,0,0,0,Blue
+169,Great Rants,20/05/2019,photo,NO_CTA,photo,341.76,102253,13,1,3,0,0,No,0,No person,Persuading,2,1,8,2,no CTA at all,Positive,International Politics,1,Professional,1,0,1,Blue
+170,NY Climate Collective,14/03/2019,photo,NO_CTA,photo,618.94,102150,1655,312,373,0,0,No,0,No person,Persuading,2,1,7,3,CTA in text,Negative,Social issues,0,Professional,1,0,0,White
+171,NY Climate Collective,03/05/2018,video,NO_CTA,video,388.04,101817,151,51,59,8344,2263,Yes,1,Man,Persuading,2,1,7,4,no CTA at all,Negative,Finance,0,Professional,0,0,0,Black
+173,Heschsoft,08/05/2019,photo,NO_CTA,photo,144.03,100995,19,11,2,0,0,No,0,No person,Informing,3,1,6,8,CTA in text,Positive,Finance,0,Professional,0,0,0,White
+175,Great Rants,08/04/2019,video,learn_more,video,671.27,100357,95,64,11,8236,4068,No,0,No person,Informing,3,1,5,9,CTA in text,Positive,Economy,0,Professional,0,0,0,Magenta
+175,Great Rants,08/04/2019,video,learn_more,video,671.27,100357,95,64,11,8236,4068,Yes,1,Woman,Persuading,1,1,9,4,no CTA at all,Positive,Finance,0,Professional,0,0,1,Blue
+176,Heschsoft,25/04/2018,video,learn_more,video,200,100349,49,3,2,2381,837,Yes,5,Man,Persuading,1,1,8,3,no CTA at all,Positive,Security,0,Professional,1,0,0,Black
+177,Grece Foundation,14/11/2018,photo,NO_CTA,photo,263.8,99853,141,12,26,0,0,No,0,No person,Persuading,3,1,8,3,CTA in text,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,Black
+178,Heschsoft,03/04/2019,video,NO_CTA,video,152.63,99810,18,0,1,1363,434,Yes,2,Man,Informing,4,1,7,9,no CTA at all,Positive,Security,0,Professional,0,0,0,Black
+179,NY Climate Collective,02/05/2019,link,NO_CTA,share,226.7,99657,249,57,33,0,0,Yes,1,Man,Informing,2,1,5,9,CTA in creative,Positive,Economy,0,Professional,0,0,0,Black
+181,Ted Hansen Campaign,18/01/2019,video,NO_CTA,video,258.48,98353,22,2,3,18955,18955,No,0,No person,Entertaining,1,7,3,3,no CTA at all,Neutral,Economy,0,Professional,0,0,0,White
+182,Loto Paper Laundry,14/11/2018,video,NO_CTA,video,725.21,98095,1061,369,112,13190,4365,Yes,5,Both,Persuading,2,1,9,3,no CTA at all,Positive,Other,1,Professional,0,0,1,Blue
+183,Ted Hansen Campaign,14/01/2019,video,NO_CTA,video,360.1,97828,122,9,16,5561,1059,Yes,5,Both,Persuading,2,1,8,3,no CTA at all,Positive,Economy,0,Professional,0,1,0,Black
+184,NY Climate Collective,24/01/2018,link,learn_more,share,1281.06,97588,196,44,39,0,0,Yes,4,Both,Engaging,8,1,3,5,CTA in both,Positive,Finance,0,Professional,0,0,1,Magenta
+185,Great Rants,19/10/2018,video,learn_more,video,551.1,97507,95,59,12,11171,9893,No,0,No person,Engaging,8,3,3,6,CTA in creative,Positive,Other,0,Professional,0,0,1,Red
+186,NY Climate Collective,01/02/2019,link,NO_CTA,share,269.57,96534,343,49,61,0,0,Yes,1,Man,Informing,2,1,4,9,no CTA at all,Positive,Economy,0,Professional,0,0,0,Grey
+187,Ted Hansen Campaign,14/06/2019,photo,NO_CTA,photo,162.27,96404,13,0,0,0,0,No,0,No person,Informing,3,1,6,9,CTA in text,Positive,Economy,0,Professional,0,1,0,Grey
+188,Loto Paper Laundry,21/11/2018,share,NO_CTA,link,1164.28,95318,2932,706,237,0,0,Yes,3,Both,Persuading,3,1,8,5,CTA in text,Positive,Other,1,Professional,0,0,0,Grey
+189,NY Climate Collective,01/02/2018,video,learn_more,video,500,95227,634,121,158,17816,4384,No,0,No person,Persuading,4,3,8,2,CTA in text,Negative,Finance,0,Professional,1,1,0,Magenta
+190,NY Climate Collective,06/07/2018,link,NO_CTA,share,518.59,95227,565,95,140,0,0,Yes,1,Man,Informing,1,1,5,9,no CTA at all,Positive,Other,0,Professional,0,0,0,Grey
+191,NY Climate Collective,09/01/2019,video,NO_CTA,video,207.28,94902,59,37,10,24705,24705,No,0,No person,Persuading,2,1,8,5,no CTA at all,Positive,Social issues,0,Professional,1,0,0,Magenta
+192,NY Climate Collective,11/07/2019,photo,message_page,photo,121.92,94518,2,0,0,0,0,No,0,No person,Informing,2,1,4,8,CTA in text,Positive,Other,0,Professional,0,0,0,Blue
+193,Ted Hansen Campaign,26/11/2018,photo,NO_CTA,photo,542.55,94490,240,15,33,0,0,No,0,No person,Persuading,1,1,8,3,no CTA at all,Positive,Economy,0,Professional,0,1,0,Blue
+194,Heschsoft,24/06/2019,photo,NO_CTA,photo,170.4,94420,25,4,0,0,0,Yes,2,Both,Persuading,2,1,8,3,CTA in text,Positive,Infrastructure,0,Professional,1,0,0,Magenta
+195,Ted Hansen Campaign,12/11/2018,photo,NO_CTA,photo,325.84,94384,90,54,15,0,0,No,0,No person,Informing,1,1,5,8,no CTA at all,Positive,Economy,0,Professional,0,1,0,Blue
+197,NY Climate Collective,09/08/2019,photo,NO_CTA,photo,127.94,94086,16,1,1,0,0,Yes,1,Man,Informing,1,1,5,8,CTA in text,Positive,Education,0,Professional,1,0,0,Magenta
+198,Great Rants,14/05/2019,photo,NO_CTA,photo,241.68,93334,22,6,3,0,0,Yes,1,Woman,Persuading,2,1,8,3,no CTA at all,Positive,Infrastructure,1,Professional,1,0,0,Blue
+199,NY Climate Collective,17/01/2019,photo,NO_CTA,photo,239.37,93287,946,54,15,0,0,No,0,No person,Persuading,1,1,8,3,no CTA at all,Positive,Economy,0,Professional,1,0,0,Magenta
+200,Great Rants,16/04/2019,video,learn_more,video,636.86,93138,50,3,2,1999,1420,No,0,No person,Engaging,8,2,5,1,no CTA at all,Positive,Environment,0,Professional,0,0,0,Blue
+201,Grece Foundation,01/05/2019,video,NO_CTA,video,246.85,93105,6,2,1,4244,2236,Yes,5,Both,Entertaining,3,9,6,2,CTA in creative,Negative,Economy,0,Professional,0,0,0,Black
+203,Great Rants,29/04/2019,photo,NO_CTA,photo,334.19,91470,74,41,2,0,0,Yes,1,Woman,Persuading,1,1,8,2,no CTA at all,Positive,Social issues,1,Professional,1,0,0,Blue
+204,NY Climate Collective,06/11/2018,video,NO_CTA,video,386.55,91221,82,44,25,6120,1844,Yes,5,Both,Persuading,1,1,9,5,CTA in creative,Positive,Social issues,0,Professional,1,0,1,Magenta
+205,NY Climate Collective,05/10/2018,video,NO_CTA,video,195.35,91142,19,20,5,1864,286,Yes,1,Man,Persuading,2,1,8,3,no CTA at all,Positive,Social issues,0,Professional,0,0,0,Magenta
+207,Great Rants,23/03/2019,photo,NO_CTA,photo,262.39,90836,99,29,5,0,0,Yes,1,Woman,Persuading,3,1,8,3,no CTA at all,Positive,Social issues,1,Professional,1,0,0,Red
+208,Grece Foundation,11/06/2019,photo,NO_CTA,photo,159.46,89829,246,71,44,0,0,Yes,1,Man,Persuading,1,1,8,5,CTA in text,Positive,Economy,0,Professional,0,0,0,White
+210,Heschsoft,11/03/2019,video,NO_CTA,video,691.87,89303,139,72,24,3006,932,No,0,No person,Persuading,7,1,9,2,CTA in creative,Positive,Security,0,Professional,1,0,0,Purple
+211,NY Climate Collective,21/08/2019,video,NO_CTA,video,312.27,88764,24,6,3,5054,1922,Yes,1,Man,Persuading,1,1,7,5,CTA in text,Positive,Economy,0,Professional,0,0,0,Magenta
+212,Great Rants,07/05/2019,photo,NO_CTA,photo,303.08,88575,126,9,14,0,0,Yes,1,Man,Persuading,1,1,9,4,no CTA at all,Positive,International Politics,1,Professional,1,0,0,Blue
+213,Great Rants,22/05/2019,photo,NO_CTA,photo,272.02,88356,30,7,1,0,0,Yes,1,Woman,Persuading,1,1,8,4,no CTA at all,Positive,Social issues,1,Professional,1,0,0,Red
+215,NY Climate Collective,27/06/2018,photo,NO_CTA,photo,283.17,88140,739,83,131,0,0,No,0,No person,Informing,1,1,5,9,CTA in text,Positive,Finance,0,Professional,1,0,0,Magenta
+216,Heschsoft,30/08/2018,video,no_button,video,150,87957,17,0,2,817,324,Yes,5,Both,Informing,1,3,7,8,CTA in text,Positive,Social issues,0,Professional,0,0,0,White
+217,NY Climate Collective,21/01/2019,link,NO_CTA,share,223.85,87725,305,100,50,0,0,Yes,2,Both,Informing,1,1,3,8,CTA in text,Negative,Social issues,0,Professional,0,0,0,Grey
+218,Grece Foundation,08/08/2019,photo,NO_CTA,photo,142.93,87042,7,5,5,0,0,Yes,1,Man,Informing,1,1,6,8,no CTA at all,Negative,Economy,0,Professional,0,0,0,Blue
+219,NY Climate Collective,02/02/2018,video,NO_CTA,video,400,86905,37,6,10,18532,3526,Yes,5,Both,Persuading,1,2,8,5,no CTA at all,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,White
+220,Great Rants,03/05/2019,link,learn_more,share,749.9,86892,99,52,16,0,0,Yes,1,Woman,Engaging,8,1,3,5,CTA in creative,Positive,No topic,1,Professional,0,0,0,Blue
+222,NY Climate Collective,09/09/2019,link,NO_CTA,share,520.3,85655,125,48,14,0,0,No,0,No person,Informing,2,1,7,8,CTA in text,Positive,Finance,0,Professional,0,0,0,Red
+223,Ted Hansen Campaign,19/11/2018,photo,NO_CTA,photo,466.82,85655,145,24,20,0,0,No,0,No person,Persuading,1,3,8,5,no CTA at all,Positive,Economy,0,Professional,0,1,0,Blue
+224,Spartan Consulting,28/08/2019,photo,NO_CTA,photo,204.8,85296,162,77,16,0,0,No,0,No person,Informing,5,1,3,9,no CTA at all,Neutral,Other,1,Professional,0,0,0,Blue
+225,NY Climate Collective,20/07/2018,video,NO_CTA,share,298.78,85186,553,17,3,0,0,Yes,1,Man,Informing,1,1,3,8,no CTA at all,Neutral,"Innovation, science and digitalization",0,Professional,0,0,0,Black
+226,Grece Foundation,14/02/2018,link,NO_CTA,share,436.09,85164,940,111,285,0,0,Yes,1,Man,Informing,1,1,6,8,no CTA at all,Neutral,Economy,0,Professional,0,0,0,Grey
+227,NY Climate Collective,04/01/2019,video,NO_CTA,video,191.37,84583,104,77,14,7705,7705,No,0,No person,Persuading,1,2,8,7,CTA in text,Positive,Economy,0,Professional,0,0,0,Magenta
+228,Grece Foundation,31/01/2019,photo,NO_CTA,photo,109.16,83592,28,1,7,0,0,Yes,1,Woman,Persuading,1,1,6,2,no CTA at all,Positive,Education,0,Professional,0,0,0,White
+229,Ted Hansen Campaign,29/01/2019,photo,NO_CTA,photo,213.46,83532,298,40,25,0,0,Yes,1,Woman,Persuading,1,1,6,3,no CTA at all,Negative,Economy,0,Professional,0,0,0,Black
+230,NY Climate Collective,11/04/2019,video,learn_more,video,271.14,83480,0,0,10,2424,2424,Yes,2,Both,Persuading,2,3,7,1,no CTA at all,Negative,Social issues,0,Professional,0,0,0,Magenta
+231,Heschsoft,15/02/2019,video,NO_CTA,video,100,83436,5,0,0,632,115,Yes,2,Man,Informing,5,1,5,7,no CTA at all,Positive,Social issues,0,Professional,0,0,0,Black
+232,Ted Hansen Campaign,28/05/2019,photo,NO_CTA,photo,168.67,82748,4,4,0,0,0,Yes,1,Man,Persuading,1,1,7,4,no CTA at all,Positive,Economy,0,Professional,0,0,0,Blue
+233,Grece Foundation,09/11/2018,photo,NO_CTA,photo,238.49,82569,196,21,38,0,0,No,0,No person,Informing,2,1,6,8,CTA in text,Positive,Finance,0,Professional,0,0,0,White
+234,Great Rants,27/04/2018,share,learn_more,link,200,82497,25,23,1,0,0,No,0,No person,Engaging,8,1,1,1,CTA in text,Positive,Social issues,0,Professional,1,0,1,White
+235,Spartan Consulting,29/01/2019,photo,NO_CTA,photo,233.18,81218,153,29,28,0,0,Yes,3,Both,Informing,1,1,6,8,no CTA at all,Positive,Finance,0,Professional,0,0,0,Blue
+236,NY Climate Collective,19/03/2019,video,NO_CTA,video,338.37,80986,402,265,124,23115,19722,Yes,1,Woman,Persuading,1,3,8,4,CTA in text,Negative,Social issues,0,Professional,1,0,0,Red
+238,Great Rants,03/05/2019,link,learn_more,share,315.17,80614,277,70,37,0,0,Yes,1,Woman,Persuading,1,1,7,3,no CTA at all,Positive,International Politics,1,Professional,1,0,0,Blue
+238,Great Rants,03/05/2019,link,learn_more,share,315.17,80614,277,70,37,0,0,Yes,1,Woman,Engaging,8,1,7,5,CTA in creative,Positive,International Politics,1,Professional,1,0,1,Blue
+239,NY Climate Collective,25/01/2019,link,NO_CTA,share,132.62,80609,424,113,60,0,0,Yes,1,Man,Informing,1,1,6,8,CTA in text,Positive,Social issues,0,Professional,0,0,0,Grey
+240,NY Climate Collective,14/06/2018,link,NO_CTA,share,684.73,80607,1270,52,118,0,0,Yes,1,Man,Informing,4,1,2,8,CTA in text,Positive,Economy,0,Professional,1,0,0,Grey
+241,Grece Foundation,09/01/2019,photo,NO_CTA,photo,143.23,79586,2,0,0,0,0,No,0,No person,Informing,5,1,6,8,CTA in text,Positive,Economy,0,Professional,0,0,0,Blue
+242,NY Climate Collective,11/03/2019,link,NO_CTA,share,216.95,79424,301,128,51,0,0,Yes,1,Man,Informing,1,1,7,8,CTA in text,Positive,Economy,0,Professional,0,0,0,Grey
+243,NY Climate Collective,26/07/2018,link,NO_CTA,share,370.4,79366,509,145,180,0,0,Yes,1,Man,Informing,1,1,6,8,CTA in text,Negative,Finance,0,Professional,1,0,0,Grey
+244,Grece Foundation,11/02/2019,photo,NO_CTA,photo,183.51,79240,277,31,68,0,0,No,0,No person,Persuading,1,1,8,6,CTA in text,Positive,Finance,0,Professional,0,0,0,Blue
+245,Ted Hansen Campaign,19/12/2018,photo,NO_CTA,photo,259.01,79200,56,1,0,0,0,No,0,No person,Engaging,8,3,1,6,CTA in both,Neutral,Economy,0,Professional,0,0,0,Blue
+246,Great Rants,29/03/2019,photo,NO_CTA,photo,311.13,78710,148,25,3,0,0,Yes,1,Woman,Persuading,1,1,7,3,no CTA at all,Positive,International Politics,1,Professional,1,0,0,Blue
+247,Ted Hansen Campaign,10/01/2019,photo,NO_CTA,photo,201.93,78603,102,4,10,0,0,Yes,1,Man,Persuading,2,1,7,6,CTA in text,Positive,Economy,0,Professional,0,0,0,Yellow
+248,NY Climate Collective,18/02/2019,video,NO_CTA,video,177.76,78437,79,58,32,7228,2206,Yes,1,Man,Informing,1,1,7,9,CTA in text,Positive,Finance,0,Professional,1,0,0,Magenta
+249,Spartan Consulting,18/07/2018,video,NO_CTA,video,262.61,78390,47,0,1,2408,433,Yes,5,Both,Engaging,7,1,2,5,no CTA at all,Positive,No topic,0,Professional,0,0,0,Blue
+250,NY Climate Collective,25/02/2018,video,learn_more,video,476.38,78272,178,32,69,12773,5351,Yes,1,Woman,Persuading,2,5,7,4,no CTA at all,Negative,Economy,0,Professional,0,0,0,Magenta
+251,NY Climate Collective,12/07/2018,photo,NO_CTA,photo,177.44,77379,581,88,307,0,0,No,0,No person,Informing,1,2,6,9,CTA in text,Negative,Finance,0,Professional,0,0,0,Yellow
+253,NY Climate Collective,25/06/2019,photo,NO_CTA,photo,187.91,77157,703,139,163,0,0,Yes,1,Man,Persuading,2,1,8,5,CTA in text,Negative,Finance,0,Professional,0,0,0,Magenta
+254,Cargill Entertainment,14/08/2019,photo,NO_CTA,photo,99.05,77144,164,5,33,0,0,No,0,No person,Informing,1,1,7,8,no CTA at all,Positive,Finance,0,Professional,0,0,0,Grey
+255,Ted Hansen Campaign,09/11/2018,video,NO_CTA,video,322.91,77115,33,12,8,11534,11534,No,0,No person,Informing,1,2,6,8,no CTA at all,Positive,Economy,0,Professional,0,1,0,Yellow
+257,Grece Foundation,17/12/2018,photo,NO_CTA,photo,192.47,76464,77,4,13,0,0,No,0,No person,Informing,1,1,6,9,CTA in text,Positive,Economy,0,Professional,0,0,0,Grey
+258,Ted Hansen Campaign,03/04/2019,photo,NO_CTA,photo,203.68,76242,473,55,72,0,0,Yes,1,Woman,Persuading,2,1,7,4,no CTA at all,Neutral,Economy,0,Professional,0,0,0,Red
+259,Grece Foundation,15/01/2018,video,NO_CTA,video,477.38,76127,455,69,69,26069,26069,No,0,No person,Persuading,2,3,8,4,no CTA at all,Positive,Economy,0,Professional,0,0,0,Blue
+260,Grece Foundation,01/02/2019,photo,NO_CTA,photo,145.57,76110,166,7,30,0,0,No,0,No person,Informing,2,1,5,8,CTA in text,Neutral,Economy,0,Professional,0,0,0,Blue
+261,Ted Hansen Campaign,04/02/2019,video,NO_CTA,video,284.21,76011,4,0,1,8170,1766,Yes,4,Man,Persuading,2,1,7,5,no CTA at all,Positive,Economy,0,Professional,0,1,0,Yellow
+262,Spartan Consulting,30/04/2019,video,NO_CTA,video,410.17,75848,133,105,15,8085,2384,Yes,1,Man,Persuading,2,1,8,6,no CTA at all,Positive,International Politics,1,Professional,0,0,0,White
+263,Grece Foundation,04/03/2019,video,NO_CTA,video,133.54,75591,21,14,9,3261,1450,Yes,5,Both,Persuading,2,6,7,2,CTA in creative,Negative,Economy,0,Professional,0,0,0,Grey
+264,Great Rants,08/04/2019,video,learn_more,video,624.51,75538,120,58,37,3740,1919,Yes,2,Woman,Persuading,4,1,8,2,no CTA at all,Positive,Social issues,1,Professional,0,0,1,Blue
+265,Heschsoft,11/04/2019,video,NO_CTA,video,138.04,75421,14,4,3,2483,2483,Yes,1,Man,Persuading,1,1,8,4,no CTA at all,Positive,Security,1,Professional,1,0,0,Purple
+267,Heschsoft,03/11/2018,video,NO_CTA,video,100,75035,34,2,0,1008,372,Yes,2,Man,Persuading,3,1,8,6,CTA in text,Positive,Security,0,Professional,0,0,1,Blue
+268,Great Rants,22/04/2018,video,learn_more,video,99.81,73583,62,14,10,1244,449,Yes,1,Woman,Persuading,1,1,7,3,no CTA at all,Positive,Other,1,Professional,0,0,0,Red
+269,NY Climate Collective,06/06/2019,video,NO_CTA,video,161.02,73562,31,25,17,4935,1610,Yes,1,Man,Persuading,2,1,8,7,CTA in text,Positive,Finance,0,Professional,0,0,0,Magenta
+270,Great Rants,22/04/2018,video,learn_more,video,99.34,73517,91,13,3,1270,462,Yes,5,Both,Persuading,4,1,8,4,no CTA at all,Positive,Other,0,Professional,0,0,0,Blue
+271,Grece Foundation,21/03/2019,photo,NO_CTA,photo,161.45,73412,357,122,114,0,0,No,0,No person,Informing,3,1,6,9,CTA in text,Negative,Finance,0,Professional,0,0,0,Blue
+272,Grece Foundation,05/06/2019,photo,NO_CTA,photo,141.17,73279,384,160,34,0,0,No,0,No person,Persuading,2,1,7,6,CTA in text,Positive,Economy,0,Professional,0,0,0,Blue
+273,NY Climate Collective,17/01/2019,link,NO_CTA,share,193,73162,182,24,41,0,0,Yes,1,Man,Informing,2,1,6,8,CTA in text,Positive,Economy,0,Professional,0,0,0,Grey
+274,Great Rants,05/05/2019,photo,NO_CTA,photo,140.29,73122,22,5,2,0,0,Yes,1,Woman,Persuading,1,1,7,5,no CTA at all,Positive,Social issues,1,Professional,1,0,0,Black
+275,Grece Foundation,28/02/2019,photo,NO_CTA,photo,90.75,72652,7,1,1,0,0,Yes,1,Man,Entertaining,4,8,2,1,no CTA at all,Positive,No topic,0,Professional,0,0,0,Blue
+276,Great Rants,12/09/2018,photo,NO_CTA,photo,137.73,72406,10,0,0,0,0,Yes,3,Both,Engaging,8,1,3,4,no CTA at all,Positive,No topic,0,Professional,0,0,0,Blue
+279,Ted Hansen Campaign,03/05/2019,photo,NO_CTA,photo,163.95,72123,594,103,46,0,0,No,0,No person,Informing,1,4,6,7,no CTA at all,Positive,Economy,0,Professional,0,1,0,Other
+280,NY Climate Collective,28/02/2019,video,NO_CTA,video,102.44,72105,26,6,3,2396,664,Yes,1,Man,Persuading,3,1,8,6,CTA in text,Positive,Economy,0,Professional,0,0,0,Magenta
+281,Great Rants,08/04/2019,link,learn_more,share,363.33,72043,590,36,65,0,0,Yes,1,Woman,Engaging,8,1,7,6,CTA in creative,Positive,International Politics,1,Professional,1,0,0,Blue
+283,NY Climate Collective,26/08/2019,photo,message_page,photo,101.63,71686,5,0,0,0,0,No,0,No person,Informing,2,1,3,9,CTA in text,Neutral,Economy,0,Professional,0,0,0,Green
+284,Liberty House,18/01/2019,photo,NO_CTA,photo,198.86,71614,58,4,8,0,0,Yes,2,Both,Persuading,1,1,8,5,no CTA at all,Positive,Education,0,Professional,0,0,0,Orange
+285,NY Climate Collective,25/02/2018,link,learn_more,share,500,71568,432,117,80,0,0,No,0,No person,Engaging,8,3,5,6,CTA in both,Positive,Other,0,Professional,0,0,0,White
+286,NY Climate Collective,20/02/2018,link,NO_CTA,share,407.51,71553,320,13,32,0,0,Yes,1,Man,Informing,2,1,7,8,CTA in text,Positive,"Innovation, science and digitalization",0,Professional,0,0,1,Grey
+287,NY Climate Collective,04/03/2019,video,NO_CTA,video,127.33,71459,33,9,9,3985,920,Yes,2,Man,Persuading,2,1,8,6,CTA in text,Positive,Economy,0,Professional,0,0,0,Magenta
+288,NY Climate Collective,14/03/2019,link,learn_more,share,569.24,71262,407,175,241,0,0,No,0,No person,Persuading,3,3,8,4,CTA in creative,Positive,Social issues,0,Professional,0,0,1,Magenta
+289,Pierce Associates,13/08/2019,video,NO_CTA,video,329.67,71164,101,38,11,12670,3982,Yes,5,Both,Persuading,4,1,9,4,no CTA at all,Positive,No topic,1,Professional,1,0,0,Green
+290,NY Climate Collective,04/06/2018,link,NO_CTA,share,363.14,70913,1542,41,32,0,0,No,0,No person,Informing,2,3,8,9,CTA in text,Positive,Economy,0,Professional,0,0,0,Magenta
+291,Ted Hansen Campaign,08/02/2019,photo,NO_CTA,photo,176.47,70910,347,28,48,0,0,No,0,No person,Persuading,2,3,8,4,no CTA at all,Neutral,International Politics,0,Professional,0,0,0,Red
+292,NY Climate Collective,02/07/2019,link,NO_CTA,share,317.62,70849,136,92,72,0,0,No,0,No person,Informing,1,1,2,10,no CTA at all,Neutral,Environment,0,Professional,0,0,0,Blue
+293,Great Rants,20/04/2019,video,NO_CTA,video,436.45,70835,252,8,21,3544,1833,Yes,1,Woman,Entertaining,3,7,2,2,no CTA at all,Positive,No topic,0,Professional,0,0,0,Pink
+294,NY Climate Collective,18/07/2018,photo,message_page,photo,409.08,70801,571,57,69,0,0,No,0,No person,Informing,1,1,7,10,CTA in text,Negative,Education,0,Professional,0,0,0,Magenta
+295,Ted Hansen Campaign,23/11/2018,video,NO_CTA,video,395.05,69971,22,1,3,3636,3636,No,0,No person,Persuading,2,5,8,2,no CTA at all,Positive,Economy,0,Professional,0,0,0,Black
+296,NY Climate Collective,01/04/2018,link,NO_CTA,share,251.65,69779,582,151,56,0,0,Yes,1,Man,Informing,1,1,7,9,no CTA at all,Positive,Economy,0,Professional,0,0,0,Black
+297,Spartan Consulting,21/06/2019,photo,NO_CTA,photo,145.23,69649,160,20,22,0,0,Yes,1,Man,Engaging,8,3,6,5,CTA in both,Positive,Economy,0,Professional,0,0,0,Blue
+298,Great Rants,14/05/2019,photo,NO_CTA,photo,112.92,69391,0,0,2,0,0,Yes,2,Woman,Persuading,3,1,7,4,no CTA at all,Positive,Education,1,Professional,1,0,0,Black
+300,NY Climate Collective,20/06/2018,photo,NO_CTA,photo,243.63,69239,1266,139,216,0,0,No,0,No person,Persuading,2,4,9,7,CTA in text,Positive,Economy,0,Professional,0,0,0,Yellow
+301,Great Rants,20/05/2019,video,NO_CTA,video,313.26,69201,21,6,1,1706,499,Yes,2,Both,Persuading,1,1,8,3,no CTA at all,Positive,Social issues,1,Professional,1,0,0,Blue
+302,Grece Foundation,21/02/2019,photo,NO_CTA,photo,161.58,69055,153,13,16,0,0,No,0,No person,Informing,2,1,6,9,CTA in text,Positive,Economy,0,Professional,0,0,0,Blue
+304,NY Climate Collective,09/09/2019,video,NO_CTA,video,439.96,68966,66,28,18,13092,3431,Yes,1,Man,Persuading,1,1,8,6,no CTA at all,Positive,Finance,0,Professional,1,0,0,Magenta
+306,NY Climate Collective,23/01/2019,link,view_instagram_profile,share,360,68653,344,168,25,1309,1309,No,0,No person,Engaging,10,3,2,7,CTA in creative,Positive,No topic,0,Professional,0,0,1,Yellow
+307,Grece Foundation,09/05/2019,photo,NO_CTA,photo,153.87,68503,523,264,66,0,0,No,0,No person,Engaging,8,1,4,4,no CTA at all,Positive,International Politics,1,Professional,0,0,0,Blue
+309,NY Climate Collective,18/04/2018,video,NO_CTA,video,303.44,68339,35,16,8,3063,883,Yes,5,Both,Persuading,2,1,9,8,CTA in text,Positive,Economy,0,Professional,0,0,0,Black
+310,Heschsoft,03/09/2019,photo,NO_CTA,photo,166.91,67780,43,8,3,0,0,Yes,1,Woman,Persuading,2,1,8,4,CTA in text,Positive,Education,0,Professional,0,0,0,Pink
+311,NY Climate Collective,18/10/2018,video,NO_CTA,video,317.62,67529,148,106,27,10230,2256,Yes,1,Man,Persuading,1,1,9,5,no CTA at all,Positive,Finance,0,Professional,1,0,0,Magenta
+312,Great Rants,08/04/2019,link,NO_CTA,share,415.29,66972,497,22,71,0,0,Yes,4,Both,Engaging,8,1,6,3,no CTA at all,Positive,International Politics,1,Professional,1,0,0,White
+313,NY Climate Collective,05/12/2018,photo,NO_CTA,photo,702.55,66733,784,136,211,0,0,Yes,2,Both,Persuading,2,3,7,6,CTA in text,Positive,Finance,0,Professional,1,0,0,Magenta
+314,NY Climate Collective,17/08/2018,photo,NO_CTA,photo,151.65,66618,74,18,33,0,0,No,0,No person,Informing,2,1,7,9,CTA in text,Positive,Education,0,Professional,1,0,0,Green
+315,Heschsoft,18/03/2019,video,NO_CTA,video,108.4,66589,107,18,7,2800,2800,No,0,No person,Persuading,2,1,8,5,CTA in text,Positive,Security,0,Professional,1,0,0,Purple
+316,Great Rants,01/05/2019,photo,NO_CTA,photo,161.91,65781,18,2,1,0,0,Yes,1,Woman,Persuading,1,1,9,6,no CTA at all,Positive,"Innovation, science and digitalization",1,Professional,1,0,0,Red
+317,Ted Hansen Campaign,05/09/2019,photo,NO_CTA,photo,125.9,65721,58,20,1,0,0,Yes,1,Man,Persuading,1,1,9,4,no CTA at all,Positive,International Politics,0,Professional,0,0,0,Blue
+319,NY Climate Collective,02/02/2018,photo,message_page,photo,500,65478,1219,41,125,0,0,No,0,No person,Engaging,8,1,3,4,CTA in text,Positive,No topic,0,Professional,1,0,1,Black
+320,Grece Foundation,17/05/2019,album,NO_CTA,status,128.95,65457,116,3,5,0,0,No,0,No person,Informing,1,1,6,8,CTA in text,Positive,International Politics,1,Professional,0,0,1,Blue
+321,Cargill Entertainment,13/03/2019,photo,NO_CTA,photo,244.28,65426,81,20,15,0,0,No,0,No person,Informing,7,1,4,8,CTA in text,Positive,International Politics,1,Professional,0,0,0,Grey
+322,NY Climate Collective,08/07/2019,photo,NO_CTA,photo,111.88,64984,255,111,62,0,0,Yes,1,Woman,Entertaining,1,8,5,5,CTA in text,Negative,Environment,0,Professional,0,0,0,Magenta
+323,Great Rants,05/05/2019,photo,NO_CTA,photo,247.29,64892,1239,49,41,0,0,No,0,No person,Engaging,7,2,2,2,no CTA at all,Positive,No topic,1,Professional,0,0,0,Other
+324,NY Climate Collective,01/10/2018,photo,NO_CTA,photo,188.05,64764,30,7,4,0,0,Yes,1,Man,Persuading,2,1,8,4,no CTA at all,Neutral,Finance,0,Professional,1,0,0,Magenta
+325,Great Rants,08/05/2019,photo,NO_CTA,photo,135.06,64716,7,2,2,0,0,No,0,No person,Informing,2,3,5,7,CTA in text,Positive,Finance,0,Professional,1,0,0,Blue
+326,Grece Foundation,08/02/2019,video,NO_CTA,video,158.8,64714,15,23,2,2529,491,Yes,1,Man,Persuading,2,3,8,6,CTA in both,Positive,Economy,0,Professional,0,0,0,Blue
+328,Liberty House,24/03/2019,video,NO_CTA,video,609.87,64453,45,10,12,5030,1854,Yes,1,Man,Informing,6,5,3,7,no CTA at all,Positive,No topic,0,Professional,0,0,0,Black
+329,Great Rants,05/04/2019,video,NO_CTA,video,300,64421,68,26,5,5863,3141,No,0,No person,Persuading,1,1,8,5,CTA in text,Positive,Social issues,1,Professional,0,0,0,Red
+330,Ted Hansen Campaign,06/05/2019,photo,NO_CTA,photo,164.24,64360,525,131,34,0,0,Yes,1,Woman,Persuading,1,3,7,4,no CTA at all,Positive,Economy,0,Professional,0,1,0,Other
+331,NY Climate Collective,30/05/2018,photo,message_page,photo,263.3,64130,778,315,59,0,0,Yes,3,Both,Informing,1,1,3,9,CTA in text,Positive,Economy,0,Professional,0,0,0,Magenta
+332,NY Climate Collective,18/04/2018,photo,NO_CTA,photo,237.83,64114,124,65,25,0,0,Yes,1,Woman,Informing,2,1,6,9,no CTA at all,Neutral,Education,0,Professional,0,0,0,White
+333,Liberty House,03/09/2019,video,NO_CTA,video,397.82,64110,604,364,68,11190,3325,Yes,5,Both,Persuading,2,1,7,4,no CTA at all,Positive,Other,0,Professional,0,0,0,Black
+335,NY Climate Collective,15/11/2018,photo,NO_CTA,photo,129.66,63893,10,4,0,0,0,No,0,No person,Informing,1,4,4,8,no CTA at all,Neutral,Economy,0,Professional,0,0,0,Magenta
+336,NY Climate Collective,20/06/2018,video,NO_CTA,video,178.6,63450,48,20,5,3214,706,Yes,1,Woman,Persuading,1,1,8,5,no CTA at all,Positive,Education,0,Professional,0,0,1,Magenta
+339,Ted Hansen Campaign,12/06/2019,photo,NO_CTA,photo,122.89,63225,291,30,17,0,0,No,0,No person,Engaging,9,4,1,1,CTA in creative,Neutral,Economy,0,Professional,0,0,0,Orange
+340,Grece Foundation,26/11/2018,photo,NO_CTA,photo,213.03,63193,351,45,42,0,0,Yes,1,Man,Persuading,1,1,6,5,no CTA at all,Neutral,Economy,0,Professional,0,0,0,Black
+341,Grece Foundation,25/05/2018,photo,NO_CTA,photo,289.81,63122,96,3,11,0,0,No,0,No person,Informing,1,1,6,8,no CTA at all,Positive,Economy,0,Professional,0,0,0,Blue
+343,Great Rants,31/08/2018,video,NO_CTA,video,350,62422,571,172,91,16188,8291,Yes,1,Man,Engaging,8,1,6,5,no CTA at all,Positive,No topic,0,Professional,0,0,0,Grey
+344,Grece Foundation,14/02/2018,video,NO_CTA,video,261.2,62403,149,10,53,22881,22881,No,0,No person,Entertaining,1,8,4,2,no CTA at all,Negative,Finance,0,Professional,0,0,0,Blue
+345,Ted Hansen Campaign,15/10/2018,photo,NO_CTA,photo,205.22,62166,92,3,8,0,0,Yes,1,Man,Persuading,1,3,7,3,no CTA at all,Positive,Economy,0,Professional,0,1,0,Red
+346,NY Climate Collective,13/07/2018,video,NO_CTA,video,206.46,62075,44,28,28,14570,14570,No,0,No person,Persuading,3,1,7,6,CTA in text,Neutral,Finance,0,Professional,1,0,0,Magenta
+348,Heschsoft,14/03/2019,video,NO_CTA,video,161.19,61564,6,6,1,742,173,No,0,No person,Engaging,8,1,7,6,CTA in both,Positive,Security,0,Professional,1,0,0,Purple
+349,Narisoft,22/08/2019,photo,NO_CTA,photo,98.13,61533,82,74,4,0,0,No,0,No person,Engaging,7,2,5,7,no CTA at all,Positive,Finance,0,Professional,0,0,0,Yellow
+350,NY Climate Collective,12/09/2018,video,NO_CTA,video,175.74,61432,45,46,21,5873,3158,Yes,5,Both,Persuading,2,1,8,7,CTA in text,Positive,Social issues,0,Professional,0,0,0,Black
+351,Great Rants,03/05/2019,link,learn_more,share,491.34,61410,24,8,2,0,0,Yes,5,Both,Engaging,8,1,2,7,CTA in creative,Positive,No topic,1,Professional,0,0,1,Blue
+352,NY Climate Collective,29/04/2019,photo,NO_CTA,photo,125.91,61213,314,79,41,0,0,No,0,No person,Informing,3,1,4,9,CTA in text,Positive,No topic,1,Professional,0,1,1,Blue
+353,Grece Foundation,12/02/2019,photo,NO_CTA,photo,142.69,60931,23,2,4,0,0,No,0,No person,Entertaining,6,9,2,3,CTA in text,Positive,Economy,0,Professional,0,0,0,Black
+354,Great Rants,11/04/2019,photo,NO_CTA,photo,344.28,60931,105,22,1,0,0,Yes,1,Woman,Persuading,1,1,7,4,no CTA at all,Negative,International Politics,1,Professional,1,0,0,Blue
+355,Grece Foundation,11/01/2019,photo,NO_CTA,photo,131.58,60870,93,8,11,0,0,Yes,1,Man,Persuading,1,1,8,5,no CTA at all,Negative,Other,0,Professional,0,0,0,Blue
+356,Ted Hansen Campaign,10/04/2019,photo,NO_CTA,photo,208.21,60802,1096,137,30,0,0,No,0,No person,Engaging,8,6,1,3,CTA in both,Neutral,International Politics,0,Professional,0,0,0,Blue
+357,NY Climate Collective,20/09/2018,video,NO_CTA,video,168.48,60669,8,7,5,2987,808,Yes,1,Man,Persuading,2,1,8,6,no CTA at all,Positive,Social issues,0,Professional,0,0,0,Magenta
+358,NY Climate Collective,23/04/2018,video,NO_CTA,video,260.29,60498,150,40,34,7336,2418,Yes,1,Man,Persuading,1,1,8,7,CTA in text,Positive,Finance,0,Professional,1,0,0,Magenta
+359,Grece Foundation,27/06/2018,photo,NO_CTA,photo,162.99,60425,10,2,0,0,0,No,0,No person,Informing,1,1,5,9,no CTA at all,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,Blue
+360,Great Rants,18/04/2019,photo,NO_CTA,photo,203.18,60338,142,0,0,0,0,Yes,2,Woman,Engaging,8,4,5,3,CTA in text,Positive,No topic,1,User generated,1,0,0,White
+361,NY Climate Collective,06/02/2019,video,NO_CTA,video,80.98,60160,6,4,1,820,187,Yes,1,Man,Persuading,1,1,8,5,no CTA at all,Positive,Social issues,0,Professional,1,0,0,Magenta
+362,Narisoft,30/05/2019,photo,NO_CTA,photo,84.46,60112,13,1,2,0,0,Yes,1,Man,Persuading,4,6,7,3,CTA in text,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,Black
+363,Great Rants,03/05/2019,video,NO_CTA,video,715.87,59739,399,118,33,4404,1273,Yes,5,Both,Persuading,4,1,8,5,no CTA at all,Positive,International Politics,1,Professional,0,0,1,Blue
+364,Spartan Consulting,28/06/2019,photo,NO_CTA,photo,81.09,59633,2,2,0,0,0,No,0,No person,Engaging,8,1,3,5,CTA in creative,Neutral,Finance,0,Professional,0,0,0,Blue
+365,Great Rants,15/08/2018,photo,NO_CTA,photo,610.54,59512,3837,1203,232,0,0,Yes,1,Woman,Persuading,2,1,7,4,no CTA at all,Positive,Environment,0,Professional,0,0,0,Red
+366,NY Climate Collective,24/08/2018,photo,NO_CTA,photo,92.56,58883,32,7,13,0,0,No,0,No person,Entertaining,1,8,4,4,no CTA at all,Positive,Finance,0,Professional,1,0,0,Yellow
+367,NY Climate Collective,10/08/2018,link,NO_CTA,share,273.93,58848,638,97,178,0,0,Yes,1,Man,Informing,1,1,9,8,CTA in text,Positive,Finance,0,Professional,0,0,0,Grey
+368,Great Rants,18/08/2018,photo,NO_CTA,photo,500,58806,2006,608,224,0,0,Yes,1,Woman,Engaging,8,1,6,3,CTA in text,Positive,Social issues,0,Professional,0,0,0,Red
+369,Heschsoft,02/09/2019,photo,NO_CTA,photo,90.97,58797,11,7,0,0,0,No,0,No person,Engaging,8,2,6,5,CTA in text,Positive,Education,0,Professional,0,0,0,Blue
+370,Cargill Entertainment,18/05/2018,photo,NO_CTA,photo,155.13,58671,420,56,8,0,0,No,0,No person,Engaging,8,2,1,4,CTA in both,Positive,Culture,0,Professional,0,0,0,Blue
+374,Narisoft,13/07/2018,photo,NO_CTA,photo,113.06,58296,306,69,21,0,0,No,0,No person,Engaging,8,4,2,3,CTA in text,Positive,Health and lifestyle,0,Professional,0,0,0,Yellow
+375,Grece Foundation,28/08/2018,video,NO_CTA,video,233.24,58283,140,19,84,1271,499,No,0,No person,Informing,2,1,3,8,no CTA at all,Neutral,Finance,0,Professional,0,0,0,Blue
+377,Great Rants,25/10/2018,video,NO_CTA,video,400,58155,333,67,53,5428,1596,Yes,5,Both,Persuading,3,4,8,5,no CTA at all,Positive,Infrastructure,1,Professional,0,0,1,Red
+378,Pierce Associates,07/09/2019,photo,NO_CTA,photo,145.85,57948,56,17,9,0,0,No,0,No person,Persuading,2,1,7,4,no CTA at all,Neutral,Infrastructure,0,Professional,1,0,0,Blue
+379,NY Climate Collective,06/09/2018,photo,NO_CTA,photo,325.71,57841,1467,200,104,0,0,No,0,No person,Informing,4,1,2,8,CTA in both,Positive,Social issues,0,Professional,0,0,1,Magenta
+380,NY Climate Collective,05/04/2019,link,NO_CTA,share,169.1,57816,301,49,56,0,0,Yes,1,Man,Informing,2,1,7,8,no CTA at all,Positive,International Politics,0,Professional,0,0,0,Grey
+381,Great Rants,03/05/2019,link,learn_more,share,491.44,57594,61,30,6,0,0,Yes,1,Woman,Engaging,8,2,3,6,CTA in both,Positive,No topic,1,Professional,0,0,1,Blue
+382,Great Rants,23/03/2019,photo,NO_CTA,photo,161.53,57586,43,26,7,0,0,Yes,1,Woman,Persuading,5,1,6,2,no CTA at all,Positive,Social issues,1,Professional,1,0,0,Red
+383,NY Climate Collective,25/01/2018,link,learn_more,share,588.08,57569,107,15,7,0,0,Yes,2,Both,Engaging,8,1,3,3,CTA in creative,Positive,Finance,0,Professional,0,0,0,Magenta
+384,NY Climate Collective,14/05/2019,video,NO_CTA,video,176.65,57440,84,85,8,3251,845,Yes,1,Man,Persuading,1,1,7,5,no CTA at all,Positive,International Politics,1,Professional,1,0,0,Blue
+385,Cargill Entertainment,11/06/2018,video,NO_CTA,video,207.06,57305,26,8,2,2253,656,Yes,1,Man,Engaging,8,6,3,2,CTA in text,Positive,"Innovation, science and digitalization",0,Professional,1,0,0,Blue
+386,Cargill Entertainment,29/08/2019,video,NO_CTA,video,184.27,57251,109,47,12,7881,1894,Yes,1,Man,Persuading,1,1,8,5,no CTA at all,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,Blue
+387,Grece Foundation,01/04/2019,link,subscribe,share,148.34,57200,0,0,1,0,0,No,0,No person,Engaging,7,1,2,2,CTA in creative,Neutral,No topic,0,Professional,0,0,0,Blue
+388,Liberty House,07/03/2019,photo,NO_CTA,photo,158.27,57178,79,10,22,0,0,No,0,No person,Persuading,2,1,5,3,no CTA at all,Positive,Health and lifestyle,0,Professional,0,0,0,Green
+389,Great Rants,21/05/2019,video,NO_CTA,video,444.91,57115,75,57,4,12012,12012,Yes,5,Both,Persuading,3,1,7,4,no CTA at all,Positive,No topic,1,Professional,0,0,1,Red
+392,Grece Foundation,19/11/2018,link,NO_CTA,share,177.85,56895,38,1,2,0,0,Yes,1,Man,Persuading,2,2,7,5,no CTA at all,Positive,Economy,0,Professional,0,0,0,Black
+393,Grece Foundation,27/06/2019,photo,NO_CTA,photo,55.03,56825,155,1,3,0,0,No,0,No person,Persuading,3,3,7,5,CTA in text,Positive,Education,0,Professional,0,0,0,Blue
+394,Grece Foundation,13/02/2019,photo,NO_CTA,photo,156.57,56781,246,27,42,0,0,No,0,No person,Entertaining,3,8,3,6,CTA in text,Negative,Other,0,Professional,0,0,0,Grey
+395,Heschsoft,10/04/2019,video,NO_CTA,video,81.61,56422,14,0,0,671,148,Yes,2,Man,Informing,4,1,6,8,no CTA at all,Positive,Security,0,Professional,1,0,0,Black
+396,Heschsoft,17/05/2019,video,NO_CTA,video,86,56394,5,1,0,353,62,Yes,2,Both,Engaging,8,2,6,4,CTA in creative,Positive,International Politics,0,Professional,1,0,0,Grey
+396,Heschsoft,17/05/2019,video,NO_CTA,video,86,56394,5,1,0,353,62,Yes,2,Both,Informing,2,1,7,8,no CTA at all,Positive,International Politics,0,Professional,0,0,0,Grey
+397,NY Climate Collective,15/08/2019,link,NO_CTA,share,222.76,56343,23,3,1,0,0,No,0,No person,Informing,3,1,4,8,CTA in text,Positive,Education,0,Professional,1,0,0,Green
+398,NY Climate Collective,24/04/2019,photo,NO_CTA,photo,183.39,56038,570,68,102,0,0,No,0,No person,Persuading,1,2,6,5,CTA in text,Positive,Finance,0,Professional,0,0,0,Magenta
+399,Ted Hansen Campaign,23/04/2019,photo,NO_CTA,photo,173.72,55963,202,52,18,0,0,No,0,No person,Informing,1,1,5,7,no CTA at all,Positive,Economy,1,Professional,0,0,0,Yellow
+400,Great Rants,09/05/2019,photo,NO_CTA,photo,93.78,55957,8,0,1,0,0,Yes,3,Both,Engaging,6,2,3,4,CTA in text,Positive,No topic,1,User generated,1,0,0,Blue
+401,Spartan Consulting,23/07/2019,photo,NO_CTA,photo,148.65,55930,479,174,23,0,0,Yes,1,Man,Informing,3,1,3,7,no CTA at all,Neutral,International Politics,0,Professional,0,0,0,Blue
+403,NY Climate Collective,25/01/2018,photo,learn_more,photo,462.3,55746,3860,116,293,0,0,Yes,1,Man,Engaging,7,1,3,1,CTA in both,Positive,Finance,0,Professional,0,0,1,Grey
+404,NY Climate Collective,07/06/2018,link,NO_CTA,share,151.33,55700,61,24,2,0,0,Yes,1,Man,Informing,2,1,7,8,no CTA at all,Positive,Finance,0,Professional,0,0,0,Grey
+405,Ted Hansen Campaign,12/10/2018,photo,NO_CTA,photo,109.64,55552,13,0,0,0,0,No,0,No person,Persuading,1,5,6,2,no CTA at all,Positive,International Politics,0,Professional,0,0,0,Blue
+406,Great Rants,03/05/2019,link,learn_more,share,283.43,55479,133,18,11,0,0,Yes,1,Woman,Engaging,8,1,7,5,CTA in creative,Positive,International Politics,1,Professional,1,0,0,Blue
+408,Grece Foundation,01/02/2019,photo,NO_CTA,photo,94.02,55240,2,0,0,0,0,No,0,No person,Informing,2,1,4,8,CTA in text,Positive,Health and lifestyle,0,Professional,0,0,0,Blue
+410,Great Rants,04/06/2018,photo,NO_CTA,photo,500,55210,3114,809,151,0,0,Yes,1,Man,Persuading,1,1,6,5,no CTA at all,Positive,Social issues,0,Professional,0,0,0,Black
+411,Cargill Entertainment,06/02/2019,photo,NO_CTA,photo,117.53,55119,73,7,18,0,0,Yes,1,Man,Informing,2,1,1,8,no CTA at all,Neutral,"Innovation, science and digitalization",0,Professional,0,0,0,Black
+413,Liberty House,01/03/2019,video,NO_CTA,video,129.71,54707,49,55,11,4251,2496,No,0,No person,Entertaining,5,7,2,4,no CTA at all,Neutral,Environment,0,Professional,0,0,0,Black
+414,Heschsoft,27/06/2019,video,NO_CTA,video,191.13,54706,23,9,1,2259,984,Yes,1,Man,Persuading,2,1,8,6,no CTA at all,Positive,Infrastructure,0,Professional,1,0,0,Purple
+415,Heschsoft,29/08/2019,photo,NO_CTA,photo,256.83,54419,35,4,5,0,0,Yes,3,Both,Persuading,1,1,7,6,CTA in text,Positive,Infrastructure,0,Professional,1,0,0,Blue
+416,Great Rants,07/05/2019,link,learn_more,share,469.31,54233,57,29,5,0,0,Yes,1,Woman,Engaging,8,1,3,6,CTA in both,Positive,No topic,1,Professional,0,0,0,Blue
+417,NY Climate Collective,12/11/2018,video,NO_CTA,video,160.87,54200,6,7,1,4576,2640,No,0,No person,Persuading,2,4,7,3,CTA in text,Positive,Finance,0,Professional,1,0,0,Magenta
+418,Ted Hansen Campaign,29/03/2019,photo,NO_CTA,photo,141.82,54093,271,39,48,0,0,No,0,No person,Persuading,5,1,7,2,no CTA at all,Positive,International Politics,1,Professional,0,0,0,Blue
+419,Cargill Entertainment,09/05/2019,photo,NO_CTA,photo,357.5,54048,13,2,1,0,0,No,0,No person,Informing,4,1,2,8,CTA in text,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,Blue
+420,Grece Foundation,06/08/2018,photo,NO_CTA,photo,124.72,54008,4,2,0,0,0,Yes,3,Both,Persuading,1,1,7,5,no CTA at all,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,Black
+421,Grece Foundation,06/03/2019,link,NO_CTA,share,94.75,53993,163,46,19,0,0,Yes,1,Man,Persuading,5,1,8,6,CTA in text,Positive,Economy,0,Professional,0,0,0,Blue
+422,Grece Foundation,18/12/2018,photo,NO_CTA,photo,159.27,53851,216,28,65,0,0,No,0,No person,Informing,2,1,6,9,no CTA at all,Neutral,"Innovation, science and digitalization",0,Professional,0,0,0,Purple
+423,Spartan Consulting,02/01/2019,photo,NO_CTA,photo,116.35,53603,38,1,8,0,0,No,0,No person,Informing,1,1,2,9,no CTA at all,Neutral,Finance,0,Professional,0,0,0,Blue
+425,Loto Paper Laundry,19/11/2018,video,NO_CTA,video,380.7,53596,584,120,98,8962,3696,Yes,1,Man,Persuading,1,1,8,4,no CTA at all,Positive,Health and lifestyle,0,Professional,0,0,0,Black
+426,Great Rants,08/04/2019,video,learn_more,video,453.27,53292,13,6,0,2510,1178,No,0,No person,Persuading,5,1,7,3,CTA in creative,Positive,Finance,1,Professional,0,0,0,Blue
+427,NY Climate Collective,26/06/2019,photo,NO_CTA,photo,144.14,53286,215,27,34,0,0,No,0,No person,Persuading,2,1,7,6,CTA in text,Positive,Economy,0,Professional,1,0,0,Blue
+428,Grece Foundation,09/01/2019,photo,NO_CTA,photo,93.35,53046,175,29,46,0,0,No,0,No person,Persuading,1,1,5,2,no CTA at all,Neutral,Finance,0,Professional,0,0,0,White
+429,Great Rants,16/04/2019,video,NO_CTA,video,300,52935,59,35,7,7551,3041,No,0,No person,Persuading,3,1,7,3,CTA in text,Positive,Health and lifestyle,1,Professional,0,0,1,Red
+431,Grece Foundation,04/12/2018,photo,NO_CTA,photo,179.96,52891,139,3,10,0,0,No,0,No person,Persuading,2,3,7,5,CTA in text,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,Green
+432,Grece Foundation,13/03/2019,photo,NO_CTA,photo,104.39,52667,61,16,20,0,0,No,0,No person,Informing,4,1,4,8,CTA in text,Negative,Finance,0,Professional,0,0,0,White
+433,Spartan Consulting,07/02/2019,photo,NO_CTA,photo,95.16,52664,15,1,2,0,0,No,0,No person,Informing,1,1,4,7,no CTA at all,Neutral,Finance,0,Professional,0,1,0,Blue
+434,Grece Foundation,16/01/2019,photo,NO_CTA,photo,148.22,52664,233,62,30,0,0,No,0,No person,Entertaining,1,7,3,5,no CTA at all,Neutral,Economy,0,Professional,0,0,0,Black
+436,NY Climate Collective,31/07/2018,link,NO_CTA,share,275.21,52508,1244,114,720,0,0,Yes,1,Man,Persuading,2,1,8,7,no CTA at all,Neutral,Environment,0,Professional,1,0,0,Grey
+437,Grece Foundation,27/03/2019,video,NO_CTA,video,96.4,52444,17,0,4,2004,675,Yes,5,Both,Persuading,4,8,8,5,no CTA at all,Positive,Health and lifestyle,0,Professional,0,0,0,White
+438,Heschsoft,04/09/2019,photo,NO_CTA,photo,99.91,52420,8,3,1,0,0,Yes,2,Both,Persuading,6,1,7,5,CTA in text,Positive,Education,0,Professional,0,0,0,Blue
+439,Cargill Entertainment,16/10/2018,share,NO_CTA,video,145.22,52382,144,0,0,0,0,No,0,No person,Engaging,7,1,5,5,CTA in text,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,Black
+441,NY Climate Collective,29/03/2018,link,NO_CTA,share,204.17,52350,165,22,12,0,0,Yes,1,Man,Informing,1,1,7,8,no CTA at all,Neutral,Other,0,Professional,0,0,0,Grey
+442,NY Climate Collective,27/05/2019,video,NO_CTA,video,108.03,52348,25,15,5,2055,2055,No,0,No person,Informing,2,3,4,7,CTA in text,Positive,Social issues,0,Professional,1,0,0,Magenta
+443,NY Climate Collective,19/10/2018,photo,NO_CTA,photo,217.65,52347,1076,444,110,0,0,No,0,No person,Informing,1,1,6,9,CTA in text,Positive,Finance,0,Professional,0,0,0,Grey
+444,Grece Foundation,18/07/2018,photo,NO_CTA,photo,178.18,52316,15,11,2,0,0,No,0,No person,Informing,1,1,6,9,CTA in text,Neutral,Economy,0,Professional,0,0,0,Blue
+446,Great Rants,20/05/2019,photo,NO_CTA,photo,292.42,52127,20,2,0,0,0,No,0,No person,Persuading,5,1,7,3,no CTA at all,Positive,International Politics,1,Professional,1,0,0,Blue
+447,Great Rants,18/04/2019,link,learn_more,share,306.34,52032,0,0,3,0,0,Yes,1,Woman,Engaging,7,1,6,4,CTA in creative,Positive,Education,1,Professional,0,0,0,Blue
+448,Grece Foundation,15/08/2019,photo,NO_CTA,photo,93.77,52010,1,1,1,0,0,No,0,No person,Informing,1,2,6,9,CTA in text,Positive,Education,0,Professional,0,0,0,Green
+449,Spartan Consulting,19/10/2018,video,NO_CTA,video,166.07,51895,3,1,2,997,272,Yes,5,Man,Persuading,2,1,8,7,no CTA at all,Positive,Finance,1,Professional,0,0,1,Black
+450,Grece Foundation,04/06/2018,photo,NO_CTA,photo,184.54,51736,7,1,0,0,0,No,0,No person,Informing,2,8,7,8,CTA in text,Positive,Health and lifestyle,0,Professional,0,0,0,Blue
+451,Ted Hansen Campaign,07/12/2018,video,NO_CTA,video,410.74,51567,125,9,19,7029,2534,Yes,5,Both,Persuading,2,1,8,6,no CTA at all,Positive,Economy,0,Professional,0,1,0,Yellow
+452,NY Climate Collective,27/08/2019,photo,NO_CTA,photo,121.89,51469,0,0,0,0,0,Yes,1,Woman,Persuading,1,1,8,6,CTA in text,Positive,Economy,0,Professional,0,0,0,Magenta
+453,NY Climate Collective,05/02/2019,link,NO_CTA,share,105.84,51311,56,24,7,0,0,Yes,1,Man,Persuading,1,1,7,6,CTA in text,Positive,Finance,0,Professional,1,0,0,Grey
+455,NY Climate Collective,26/01/2018,link,learn_more,share,499.98,51250,307,26,13,0,0,No,0,No person,Engaging,8,2,5,4,CTA in both,Positive,Finance,0,Professional,1,0,0,Magenta
+456,Heschsoft,07/12/2018,video,learn_more,video,206.73,51243,10,6,1,797,183,Yes,5,Both,Persuading,2,4,8,6,no CTA at all,Positive,Other,0,Professional,0,0,0,White
+457,Great Rants,10/11/2018,photo,NO_CTA,photo,400,51068,1860,561,206,0,0,Yes,1,Woman,Persuading,3,1,7,4,no CTA at all,Positive,Social issues,0,Professional,0,0,0,Red
+458,Cargill Entertainment,06/04/2018,video,NO_CTA,video,195.64,51023,219,35,38,8261,2709,Yes,5,Both,Persuading,2,7,8,7,CTA in text,Positive,International Politics,0,Professional,1,0,0,Black
+459,Grece Foundation,26/11/2018,photo,NO_CTA,photo,204.18,50910,156,31,47,0,0,No,0,No person,Informing,2,6,4,8,CTA in text,Neutral,Education,0,Professional,0,0,0,Blue
+461,Spartan Consulting,05/09/2019,photo,NO_CTA,photo,113.15,50743,141,40,17,0,0,Yes,1,Man,Informing,5,1,6,8,CTA in text,Neutral,Finance,0,Professional,0,0,0,Blue
+462,Great Rants,03/05/2019,link,learn_more,share,498.47,50581,53,28,4,0,0,Yes,1,Woman,Engaging,8,2,4,5,CTA in both,Positive,No topic,1,Professional,0,0,0,Blue
+464,Heschsoft,26/06/2019,video,NO_CTA,video,163.63,50535,66,58,15,1805,405,Yes,4,Both,Persuading,2,1,8,6,CTA in text,Positive,Infrastructure,0,Professional,1,0,0,Purple
+465,Grece Foundation,15/05/2019,photo,NO_CTA,photo,114.11,50442,191,16,33,0,0,Yes,1,Man,Persuading,1,1,7,6,no CTA at all,Positive,Economy,0,Professional,0,0,0,Black
+466,Great Rants,05/04/2019,photo,NO_CTA,photo,300,50357,501,77,14,0,0,Yes,1,Woman,Persuading,1,1,8,4,no CTA at all,Positive,Education,0,Professional,0,0,0,Red
+468,Cargill Entertainment,11/05/2018,photo,NO_CTA,photo,121.89,50259,377,54,27,0,0,Yes,1,Man,Engaging,8,2,3,4,CTA in both,Neutral,No topic,0,Professional,0,0,0,Blue
+469,Great Rants,11/11/2018,video,NO_CTA,video,300,50193,131,32,10,10608,2487,Yes,5,Both,Persuading,2,1,7,6,no CTA at all,Positive,No topic,0,Professional,0,0,1,Red
+470,Narisoft,09/10/2018,photo,NO_CTA,photo,232.42,50190,323,107,310,0,0,No,0,No person,Persuading,2,3,6,5,CTA in text,Negative,Environment,0,Professional,0,0,0,Grey
+472,Cargill Entertainment,18/01/2018,video,NO_CTA,video,289.3,50069,56,15,9,8117,1926,No,0,No person,Persuading,7,4,9,8,CTA in both,Positive,Environment,0,Professional,1,0,0,White
+473,Grece Foundation,22/05/2019,video,NO_CTA,video,256.32,50021,86,6,15,21192,12533,Yes,1,Woman,Entertaining,2,7,2,4,no CTA at all,Neutral,Finance,0,Professional,0,0,0,Other
+474,NY Climate Collective,15/02/2019,video,NO_CTA,video,74.93,49982,3,2,4,1518,706,No,0,No person,Informing,2,1,6,8,CTA in text,Neutral,Finance,0,Professional,1,0,0,Magenta
+475,Ted Hansen Campaign,08/10/2018,photo,NO_CTA,photo,183.28,49921,64,1,6,0,0,No,0,No person,Entertaining,2,8,6,2,no CTA at all,Neutral,Economy,0,Professional,0,0,0,Yellow
+476,Great Rants,04/07/2018,photo,message_page,photo,500,49850,804,616,148,0,0,Yes,1,Woman,Persuading,6,1,8,3,CTA in text,Positive,Other,0,Professional,0,0,0,Red
+477,NY Climate Collective,16/10/2018,link,NO_CTA,share,126.96,49827,60,27,14,0,0,Yes,1,Man,Informing,2,1,7,8,CTA in text,Neutral,Social issues,0,Professional,0,0,1,Grey
+478,Cargill Entertainment,30/05/2018,photo,NO_CTA,photo,151.54,49746,108,15,9,0,0,Yes,1,Woman,Persuading,2,1,8,5,no CTA at all,Neutral,"Innovation, science and digitalization",0,Professional,0,0,0,Blue
+479,NY Climate Collective,16/07/2019,photo,NO_CTA,photo,63.92,49700,6,0,1,0,0,No,0,No person,Engaging,9,2,4,6,CTA in text,Positive,Environment,0,Professional,0,0,1,Magenta
+480,Cargill Entertainment,14/03/2018,video,NO_CTA,video,225.58,49659,24,9,3,2258,716,Yes,5,Both,Engaging,9,2,5,8,CTA in both,Positive,Other,0,Professional,1,0,0,Blue
+481,NY Climate Collective,17/08/2018,video,NO_CTA,video,319.97,49479,46,20,10,5101,1144,Yes,1,Man,Informing,1,1,8,6,no CTA at all,Positive,Education,0,Professional,1,0,0,Green
+483,NY Climate Collective,10/04/2018,photo,no_button,photo,128.31,49357,964,157,282,0,0,No,0,No person,Informing,1,1,7,8,no CTA at all,Neutral,Finance,0,Professional,0,0,0,Magenta
+484,Great Rants,20/05/2019,photo,NO_CTA,photo,236.55,49337,8,1,2,0,0,No,0,No person,Persuading,5,1,7,3,no CTA at all,Positive,International Politics,1,Professional,1,0,0,Red
+485,Ted Hansen Campaign,22/02/2019,photo,NO_CTA,photo,119.53,49221,259,42,17,0,0,No,0,No person,Persuading,1,7,7,4,no CTA at all,Positive,Economy,0,Professional,0,1,0,Grey
+486,NY Climate Collective,08/04/2019,video,NO_CTA,video,239.36,49161,6,2,1,22415,22415,Yes,2,Both,Persuading,4,6,8,5,CTA in text,Neutral,Social issues,0,Professional,1,0,1,Blue
+487,Ted Hansen Campaign,16/04/2019,photo,NO_CTA,photo,125.44,49102,208,33,22,0,0,Yes,1,Man,Informing,1,1,7,8,no CTA at all,Positive,Economy,0,Professional,0,1,0,Grey
+489,Cargill Entertainment,09/05/2018,photo,NO_CTA,photo,121.81,48994,394,11,46,0,0,Yes,1,Man,Persuading,2,1,7,3,no CTA at all,Positive,International Politics,0,Professional,0,0,0,Blue
+490,Great Rants,07/05/2019,link,learn_more,share,474.26,48854,32,16,3,0,0,Yes,5,Both,Engaging,9,1,4,5,CTA in both,Positive,No topic,1,Professional,0,0,0,Blue
+491,Cargill Entertainment,09/05/2019,video,NO_CTA,video,1000,48801,32,8,6,3041,849,Yes,5,Both,Engaging,8,1,4,3,CTA in text,Positive,International Politics,1,Professional,0,0,0,Black
+492,Pierce Associates,08/05/2019,video,NO_CTA,video,211.49,48746,74,30,4,5451,1400,Yes,5,Both,Persuading,3,1,8,4,no CTA at all,Positive,No topic,1,Professional,1,0,0,Blue
+494,NY Climate Collective,02/05/2019,link,learn_more,share,380.82,48628,0,0,3,0,0,No,0,No person,Informing,1,1,3,8,CTA in creative,Neutral,Other,1,Professional,0,0,0,Blue
+495,NY Climate Collective,26/01/2018,video,learn_more,video,932.4,48470,91,11,10,2465,1231,Yes,5,Both,Engaging,8,2,5,2,CTA in text,Positive,Finance,0,Professional,1,0,0,Magenta
+496,NY Climate Collective,27/02/2019,album,NO_CTA,status,169.76,48326,99,23,10,0,0,No,0,No person,Informing,1,1,7,8,no CTA at all,Neutral,Finance,0,Professional,0,0,0,Magenta
+497,Grece Foundation,07/03/2019,video,NO_CTA,video,134.42,48233,5,1,0,3458,956,Yes,1,Woman,Persuading,2,3,8,5,no CTA at all,Positive,Education,0,Professional,0,0,0,White
+498,Heschsoft,03/10/2018,video,NO_CTA,video,100,48124,30,2,2,2251,929,Yes,5,Both,Persuading,2,1,8,3,no CTA at all,Positive,Security,0,Professional,0,0,0,Black
+499,Cargill Entertainment,09/05/2019,photo,NO_CTA,photo,227.09,48097,9,4,1,0,0,No,0,No person,Engaging,8,1,2,2,CTA in text,Neutral,International Politics,0,Professional,1,0,0,Blue
+501,Great Rants,25/01/2019,photo,NO_CTA,photo,400,47774,609,294,98,0,0,Yes,1,Woman,Persuading,2,1,8,3,no CTA at all,Positive,Finance,1,Professional,0,0,0,Red
+502,Sound Green Toronto,25/01/2019,video,NO_CTA,video,96.21,47483,0,0,2,1292,1288,Yes,2,Man,Entertaining,2,9,3,2,no CTA at all,Positive,No topic,1,Professional,0,0,0,Blue
+503,Grece Foundation,15/08/2019,photo,NO_CTA,photo,71.1,47442,147,24,16,0,0,No,0,No person,Entertaining,2,8,2,4,CTA in text,Neutral,No topic,0,Professional,0,0,0,Black
+506,Great Rants,07/05/2019,link,learn_more,share,482.79,47237,43,47,4,0,0,Yes,1,Woman,Engaging,8,2,4,5,no CTA at all,Positive,International Politics,1,Professional,0,0,0,Blue
+507,NY Climate Collective,30/05/2018,link,NO_CTA,share,364.34,47183,1011,17,38,0,0,Yes,1,Man,Informing,1,1,7,8,CTA in text,Neutral,Economy,0,Professional,0,0,1,Grey
+508,Great Rants,14/05/2019,photo,NO_CTA,photo,106.21,47165,3,0,3,0,0,No,0,No person,Persuading,4,1,7,3,no CTA at all,Positive,Environment,1,Professional,1,0,0,Green
+509,Grece Foundation,09/05/2019,video,NO_CTA,video,315.15,47047,109,66,43,7776,4063,Yes,5,Both,Entertaining,5,8,4,1,no CTA at all,Positive,International Politics,1,Professional,0,0,0,Black
+510,Grece Foundation,14/09/2018,photo,NO_CTA,photo,113.3,47044,7,2,1,0,0,Yes,1,Man,Persuading,2,1,6,5,CTA in text,Positive,Education,0,Professional,0,0,0,Grey
+511,NY Climate Collective,22/06/2018,video,NO_CTA,video,144.92,47041,20,12,2,2083,520,Yes,1,Woman,Persuading,2,1,7,3,no CTA at all,Positive,"Innovation, science and digitalization",0,Professional,0,0,1,Magenta
+512,Great Rants,11/10/2018,video,NO_CTA,video,304.15,47023,357,106,74,6811,1701,Yes,3,Both,Persuading,5,2,7,3,no CTA at all,Positive,Infrastructure,1,Professional,0,0,1,Red
+513,Great Rants,16/08/2018,share,NO_CTA,link,500,46978,1201,165,112,0,0,No,0,No person,Persuading,2,1,8,7,no CTA at all,Positive,Other,1,Professional,0,0,0,Magenta
+514,Grece Foundation,15/01/2018,video,NO_CTA,video,298.05,46920,117,36,30,6602,2012,Yes,1,Man,Persuading,2,1,8,5,CTA in text,Positive,Finance,0,Professional,0,0,1,Blue
+515,Great Rants,08/04/2019,video,learn_more,video,400.27,46904,22,14,1,1262,827,No,0,No person,Persuading,5,1,7,3,CTA in creative,Positive,Finance,1,Professional,0,0,0,Blue
+516,Grece Foundation,07/02/2019,video,NO_CTA,video,114.01,46740,38,1,12,1954,329,No,0,No person,Informing,3,8,6,8,CTA in both,Positive,Economy,0,Professional,0,0,0,Blue
+517,NY Climate Collective,04/02/2019,video,NO_CTA,video,81.14,46737,10,17,13,5986,3937,Yes,1,Man,Persuading,3,4,8,5,no CTA at all,Positive,Finance,0,Professional,1,0,0,Magenta
+518,Great Rants,12/09/2018,photo,NO_CTA,photo,232.63,46713,30,14,3,0,0,Yes,3,Both,Persuading,6,1,7,4,no CTA at all,Positive,No topic,1,Professional,0,0,0,Red
+519,Ted Hansen Campaign,16/11/2018,photo,NO_CTA,photo,139.29,46458,11,3,1,0,0,Yes,1,Man,Persuading,2,4,7,3,no CTA at all,Positive,Economy,0,Professional,0,1,0,Yellow
+520,Liberty House,22/01/2019,photo,NO_CTA,photo,182.28,46268,664,79,19,0,0,No,0,No person,Entertaining,6,8,2,1,CTA in creative,Neutral,Other,0,Professional,0,0,0,Orange
+521,NY Climate Collective,25/10/2018,video,NO_CTA,video,97.5,46228,16,11,10,1673,1608,Yes,1,Man,Entertaining,2,9,2,2,no CTA at all,Positive,Finance,0,Professional,1,0,0,Magenta
+522,Grece Foundation,06/06/2019,photo,NO_CTA,photo,82.03,46145,43,15,6,0,0,No,0,No person,Informing,1,1,7,8,no CTA at all,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,White
+523,Great Rants,27/09/2018,share,learn_more,link,166.92,46124,122,6,20,0,0,Yes,2,Woman,Engaging,8,2,4,4,CTA in both,Positive,No topic,1,Professional,0,0,0,Red
+524,Great Rants,10/11/2018,video,NO_CTA,video,200,45841,94,52,16,9942,6217,Yes,5,Both,Persuading,2,8,7,4,no CTA at all,Positive,Social issues,1,Professional,0,0,0,Red
+525,NY Climate Collective,07/05/2018,photo,NO_CTA,photo,149.15,45818,389,75,148,0,0,No,0,No person,Informing,2,2,7,8,no CTA at all,Neutral,Finance,0,Professional,1,0,0,Magenta
+526,Cargill Entertainment,18/09/2018,video,NO_CTA,video,124.4,45807,29,16,4,2745,681,Yes,1,Man,Persuading,2,1,8,3,no CTA at all,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,Blue
+527,Great Rants,28/01/2019,photo,NO_CTA,photo,400,45793,426,289,35,0,0,Yes,4,Both,Persuading,1,1,7,6,CTA in text,Positive,Social issues,1,Professional,0,0,0,Red
+528,Heschsoft,12/06/2019,photo,NO_CTA,photo,62.12,45768,1,0,0,0,0,No,0,No person,Persuading,1,1,7,5,CTA in text,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,Blue
+529,Spartan Consulting,27/08/2018,photo,NO_CTA,photo,97.29,45676,16,20,4,0,0,Yes,1,Man,Informing,5,1,6,7,CTA in text,Positive,Finance,0,Professional,0,0,0,Blue
+530,Liberty House,22/03/2019,photo,NO_CTA,photo,119.55,45600,217,46,21,0,0,Yes,1,Man,Informing,4,7,3,8,no CTA at all,Positive,Culture,1,Professional,0,0,0,Yellow
+531,Heschsoft,05/09/2019,photo,NO_CTA,photo,111.4,45581,8,3,0,0,0,No,0,No person,Persuading,4,1,7,5,CTA in text,Positive,Education,0,Professional,0,0,0,Magenta
+532,Spartan Consulting,02/08/2019,photo,NO_CTA,photo,51.97,45574,11,20,2,0,0,No,0,No person,Informing,5,1,4,7,no CTA at all,Neutral,Other,1,Professional,0,0,0,Blue
+533,Great Rants,09/05/2019,video,learn_more,video,410.36,45449,36,41,8,2020,632,Yes,5,Both,Engaging,7,1,5,2,no CTA at all,Positive,Other,1,Professional,0,0,0,Red
+534,Cargill Entertainment,18/10/2018,photo,NO_CTA,photo,141.07,45371,408,42,59,0,0,No,0,No person,Informing,1,1,3,6,no CTA at all,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,Blue
+535,NY Climate Collective,21/06/2018,link,NO_CTA,share,239.29,45241,437,75,101,0,0,Yes,1,Man,Informing,2,1,7,8,no CTA at all,Neutral,Social issues,0,Professional,0,0,0,Grey
+536,Heschsoft,06/09/2019,photo,NO_CTA,photo,98.09,45223,3,2,0,0,0,Yes,2,Both,Persuading,5,1,7,5,CTA in text,Positive,Education,0,Professional,0,0,0,Blue
+537,Grece Foundation,09/11/2018,video,NO_CTA,video,152.7,45155,31,9,5,552,450,No,0,No person,Persuading,2,1,7,5,no CTA at all,Neutral,Economy,1,Professional,0,0,1,Yellow
+538,NY Climate Collective,09/08/2019,video,NO_CTA,video,237.42,45120,11,2,2,4581,1030,Yes,1,Man,Persuading,2,7,7,6,CTA in text,Positive,Education,0,Professional,1,0,0,Green
+539,Loto Paper Laundry,01/12/2018,video,NO_CTA,video,173.66,45025,525,118,49,7786,4866,Yes,5,Both,Persuading,5,7,8,3,CTA in text,Positive,Other,1,Professional,0,0,0,Grey
+540,Great Rants,29/03/2019,photo,NO_CTA,photo,181.86,45019,128,11,4,0,0,Yes,1,Woman,Persuading,3,1,7,4,no CTA at all,Positive,International Politics,1,Professional,1,0,0,Blue
+541,NY Climate Collective,12/04/2019,photo,NO_CTA,photo,62.79,44776,22,0,0,0,0,Yes,1,Woman,Persuading,2,1,8,4,no CTA at all,Neutral,Social issues,0,Professional,1,0,0,Magenta
+542,NY Climate Collective,24/01/2019,photo,NO_CTA,photo,151.81,44661,1874,475,205,0,0,Yes,1,Woman,Persuading,5,1,7,4,CTA in text,Positive,Finance,0,Professional,1,0,0,Magenta
+543,Great Rants,24/05/2019,video,NO_CTA,video,502.28,44571,227,152,36,4052,1685,No,0,No person,Persuading,6,1,8,2,no CTA at all,Positive,International Politics,1,Professional,0,0,1,Blue
+544,Grece Foundation,09/07/2018,photo,NO_CTA,photo,132.72,44541,8,0,1,0,0,No,0,No person,Persuading,2,1,7,5,no CTA at all,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,Blue
+545,Cargill Entertainment,15/02/2019,video,NO_CTA,video,250.51,44526,60,20,9,3218,1536,Yes,5,Man,Engaging,8,1,7,4,CTA in text,Neutral,Security,0,Professional,1,0,0,Black
+546,NY Climate Collective,27/01/2018,link,learn_more,share,791.63,44447,125,36,21,0,0,Yes,5,Both,Engaging,8,1,5,2,CTA in both,Positive,No topic,0,Professional,0,0,1,Magenta
+547,NY Climate Collective,12/02/2019,link,NO_CTA,share,106.32,44350,1039,337,139,0,0,Yes,1,Woman,Persuading,1,1,7,6,no CTA at all,Positive,Social issues,0,Professional,0,0,0,Blue
+548,Great Rants,04/09/2018,video,NO_CTA,video,300,44338,197,145,74,12998,8384,Yes,1,Woman,Persuading,5,4,8,3,CTA in text,Positive,Social issues,0,Professional,0,0,0,Red
+549,Great Rants,23/03/2019,photo,NO_CTA,photo,100.1,44307,121,3,12,0,0,No,0,No person,Persuading,3,1,8,3,no CTA at all,Positive,"Innovation, science and digitalization",1,Professional,1,0,0,Blue
+550,NY Climate Collective,06/11/2018,link,NO_CTA,share,199.34,44296,178,71,26,0,0,No,0,No person,Informing,4,1,5,8,no CTA at all,Positive,Finance,0,Professional,1,0,0,Blue
+551,Great Rants,19/01/2018,video,NO_CTA,video,200,44257,166,29,11,3902,999,Yes,4,Both,Engaging,8,1,5,3,CTA in creative,Positive,Social issues,0,Review needed,0,0,0,White
+552,Ted Hansen Campaign,27/12/2018,video,NO_CTA,video,245.37,44200,23,0,1,6276,2497,Yes,5,Both,Persuading,3,1,8,3,no CTA at all,Positive,Economy,0,Professional,0,1,0,Yellow
+555,Heschsoft,03/10/2018,video,NO_CTA,video,150,43910,196,5,4,1394,543,Yes,1,Man,Persuading,2,1,8,4,no CTA at all,Positive,Other,0,Professional,0,0,0,White
+556,Grece Foundation,07/03/2019,photo,NO_CTA,photo,80.7,43844,113,21,13,0,0,Yes,1,Man,Persuading,2,1,6,5,no CTA at all,Positive,Economy,0,Professional,0,0,0,Grey
+557,Great Rants,14/05/2019,photo,NO_CTA,photo,111.96,43772,3,0,0,0,0,No,0,No person,Engaging,7,1,5,2,no CTA at all,Positive,Infrastructure,1,Professional,1,0,0,Yellow
+559,Grece Foundation,26/04/2018,video,NO_CTA,video,162.19,43684,5,0,1,14171,14171,Yes,1,Woman,Entertaining,5,8,4,5,CTA in text,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,White
+561,Heschsoft,28/08/2019,photo,NO_CTA,photo,165.74,43490,26,8,1,0,0,No,0,No person,Persuading,2,1,8,5,CTA in text,Positive,Infrastructure,0,Professional,1,0,0,Green
+562,Grece Foundation,24/05/2019,album,NO_CTA,status,115.98,43441,52,19,5,0,0,Yes,1,Man,Informing,2,1,6,8,no CTA at all,Positive,Economy,1,Professional,0,0,1,Blue
+563,Great Rants,20/05/2019,video,NO_CTA,video,143.96,43405,0,0,3,684,367,Yes,1,Woman,Persuading,2,8,8,2,no CTA at all,Positive,International Politics,1,Professional,0,0,0,White
+564,Great Rants,21/10/2018,photo,NO_CTA,photo,100,43404,53,7,1,0,0,Yes,1,Woman,Persuading,6,1,8,4,CTA in text,Positive,International Politics,1,Professional,0,0,0,White
+565,Grece Foundation,06/12/2018,photo,NO_CTA,photo,112.76,43334,130,12,32,0,0,No,0,No person,Entertaining,3,7,4,1,no CTA at all,Positive,"Innovation, science and digitalization",0,Professional,0,0,0,White
+567,Cargill Entertainment,11/09/2018,photo,NO_CTA,photo,102.53,43211,359,10,67,0,0,No,0,No person,Informing,3,1,3,5,no CTA at all,Positive,Other,0,Professional,0,0,0,Black
+568,Great Rants,03/12/2018,video,NO_CTA,video,200,43015,215,21,33,10147,7026,Yes,1,Woman,Persuading,2,8,8,4,no CTA at all,Positive,Education,1,Professional,0,0,0,Red
+569,Great Rants,21/05/2019,photo,NO_CTA,photo,181.82,42936,26,10,2,0,0,Yes,2,Man,Persuading,3,4,7,2,no CTA at all,Positive,International Politics,1,Professional,1,0,0,Blue
+570,NY Climate Collective,15/08/2018,video,NO_CTA,video,158.85,42869,27,4,13,2115,1524,No,0,No person,Informing,2,2,2,7,CTA in text,Positive,Education,0,Professional,1,0,0,Green
+572,NY Climate Collective,02/03/2018,video,NO_CTA,video,317.59,42662,39,28,8,5907,1390,Yes,1,Man,Persuading,2,1,8,7,CTA in text,Positive,Education,0,Professional,0,0,1,Magenta
+573,Great Rants,14/02/2019,link,learn_more,share,349.95,42653,36,26,4,0,0,Yes,1,Woman,Persuading,5,1,8,2,CTA in creative,Positive,Social issues,1,Professional,0,0,0,White
+574,Grece Foundation,13/08/2018,photo,NO_CTA,photo,108.89,42631,3,1,0,0,0,Yes,1,Man,Persuading,2,8,7,6,no CTA at all,Positive,Economy,0,Professional,0,1,0,Blue
+575,Grece Foundation,12/06/2018,photo,NO_CTA,photo,153.96,42619,117,19,21,0,0,No,0,No person,Informing,2,1,6,9,CTA in text,Positive,Economy,0,Professional,0,0,0,Blue
+577,Loto Paper Laundry,27/11/2018,video,NO_CTA,video,246.74,42485,203,99,32,6085,1629,Yes,2,Man,Persuading,3,1,8,3,CTA in text,Positive,International Politics,1,Professional,1,0,0,Yellow
+578,Loto Paper Laundry,17/12/2018,video,NO_CTA,video,169.64,42471,220,21,78,3061,1313,Yes,5,Both,Persuading,5,2,8,3,no CTA at all,Positive,Health and lifestyle,1,Professional,0,0,0,Black
+579,Ted Hansen Campaign,18/03/2019,photo,NO_CTA,photo,87.86,42384,640,39,99,0,0,Yes,1,Man,Persuading,3,1,8,4,no CTA at all,Positive,Economy,0,Professional,0,1,0,Yellow
+580,Ted Hansen Campaign,18/02/2019,photo,NO_CTA,photo,88.18,42322,174,14,22,0,0,No,0,No person,Engaging,8,2,6,2,no CTA at all,Positive,International Politics,1,Professional,0,0,0,Blue
+581,Heschsoft,30/08/2018,video,NO_CTA,video,150,42143,89,5,1,1216,407,Yes,2,Man,Engaging,8,1,7,3,CTA in creative,Positive,Security,0,Professional,0,0,1,Black
+582,Great Rants,12/04/2019,link,learn_more,share,249.65,42128,211,63,40,0,0,No,0,No person,Informing,6,1,3,8,CTA in creative,Positive,Social issues,1,Professional,0,0,0,Blue
+583,Grece Foundation,13/03/2018,video,NO_CTA,video,271.07,42124,114,32,33,4222,1121,Yes,5,Both,Persuading,5,1,5,3,no CTA at all,Positive,Economy,0,Professional,0,0,0,Yellow
+584,NY Climate Collective,15/06/2018,photo,message_page,photo,114.03,42055,73,3,1,0,0,Yes,2,Man,Entertaining,2,7,4,5,CTA in text,Positive,Economy,0,Professional,0,0,0,Black
+585,Grece Foundation,18/01/2018,video,NO_CTA,video,205.85,41972,147,34,33,5394,3342,Yes,2,Both,Informing,2,5,7,8,CTA in text,Positive,Economy,0,Professional,0,0,0,Yellow
+586,NY Climate Collective,14/05/2019,link,NO_CTA,share,95.32,41858,70,20,7,0,0,Yes,1,Man,Informing,2,1,6,9,CTA in text,Neutral,Finance,0,Professional,0,0,1,Grey
+587,Narisoft,29/05/2019,photo,NO_CTA,photo,111.86,41547,1021,288,46,0,0,No,0,No person,Engaging,9,3,1,6,CTA in both,Neutral,Finance,0,Professional,0,0,0,Grey
+588,Great Rants,29/03/2019,link,learn_more,share,325.73,41537,96,103,8,0,0,Yes,3,Woman,Engaging,8,2,5,3,CTA in creative,Positive,No topic,1,Professional,0,0,0,Red
+589,Spartan Consulting,24/01/2019,photo,NO_CTA,photo,123.09,41460,72,2,4,0,0,Yes,1,Man,Informing,4,1,4,9,CTA in text,Positive,Finance,0,Professional,0,0,0,Blue
+590,Grece Foundation,06/11/2018,photo,NO_CTA,photo,180.97,41403,367,6,20,0,0,No,0,No person,Informing,1,5,2,6,no CTA at all,Positive,No topic,0,Professional,0,0,0,Black
+591,Grece Foundation,26/09/2018,photo,NO_CTA,photo,133.53,41392,82,0,3,0,0,No,0,No person,Informing,2,1,6,9,no CTA at all,Positive,Education,0,Professional,0,0,0,Green
+592,Loto Paper Laundry,24/08/2019,video,NO_CTA,video,150.08,41358,130,53,5,7556,1802,Yes,5,Both,Persuading,3,2,9,4,no CTA at all,Positive,No topic,1,Professional,1,0,1,Blue
+595,NY Climate Collective,31/01/2019,photo,NO_CTA,photo,142.8,41044,866,350,88,0,0,Yes,1,Man,Informing,4,1,7,8,CTA in text,Neutral,Social issues,0,Professional,1,0,0,Magenta
+596,NY Climate Collective,12/04/2018,photo,message_page,photo,188.55,41037,383,31,27,0,0,Yes,1,Man,Informing,3,1,7,8,CTA in text,Neutral,Economy,0,Professional,0,0,1,White
+597,NY Climate Collective,10/04/2019,link,NO_CTA,share,443.11,41004,121,100,34,0,0,Yes,1,Man,Informing,3,1,7,8,CTA in text,Neutral,Social issues,0,Professional,1,0,0,Grey
+598,Cargill Entertainment,03/05/2019,video,NO_CTA,video,76.77,40990,55,60,5,3336,694,Yes,1,Man,Persuading,2,1,8,5,no CTA at all,Positive,Economy,1,Professional,0,0,0,Black
+599,Great Rants,23/05/2019,video,NO_CTA,video,532.47,40884,105,108,5,4641,2563,No,0,No person,Engaging,8,4,5,1,no CTA at all,Positive,Finance,1,Professional,0,0,1,White
+600,Loto Paper Laundry,24/05/2019,video,NO_CTA,video,226.32,40829,48,30,6,8445,4764,No,0,No person,Engaging,9,2,3,3,CTA in both,Positive,Other,1,Professional,0,0,1,Green
+602,Ted Hansen Campaign,01/03/2019,photo,NO_CTA,photo,124.78,40712,537,73,21,0,0,No,0,No person,Engaging,8,4,1,2,CTA in creative,Neutral,International Politics,1,Professional,0,0,0,Blue
+603,Capitol Hill United,01/09/2019,video,learn_more,video,112.09,40647,93,2,5,4982,1823,Yes,1,Woman,Engaging,10,4,3,6,CTA in both,Positive,"Innovation, science and digitalization",0,Professional,1,0,0,Pink
+604,Great Rants,27/08/2018,photo,NO_CTA,photo,500,40525,1832,165,239,0,0,Yes,1,Woman,Engaging,8,1,3,1,CTA in text,Positive,Security,0,Professional,0,0,0,Red
+605,NY Climate Collective,14/03/2019,link,learn_more,share,354.41,40478,277,118,153,0,0,No,0,No person,Persuading,4,3,7,1,CTA in creative,Negative,Finance,0,Professional,0,0,1,Magenta
+606,Grece Foundation,03/09/2018,photo,NO_CTA,photo,142.91,40391,145,5,24,0,0,No,0,No person,Informing,4,1,6,9,CTA in text,Positive,Education,0,Professional,0,0,0,Grey
+608,Grece Foundation,11/06/2018,video,NO_CTA,video,286.58,40366,36,4,6,5101,1304,Yes,5,Both,Persuading,3,1,7,6,CTA in text,Positive,"Innovation, science and digitalization",0,Professional,0,0,1,White
+609,Loto Paper Laundry,03/05/2019,video,NO_CTA,video,156.48,40256,111,56,35,8395,3081,Yes,2,Man,Persuading,2,1,5,4,CTA in text,Positive,Health and lifestyle,1,Professional,0,0,1,Blue
+610,NY Climate Collective,24/01/2018,link,learn_more,share,703.72,40217,52,30,4,0,0,Yes,3,Both,Engaging,7,3,4,1,CTA in both,Positive,Finance,0,Professional,0,0,1,Magenta
+611,Grece Foundation,25/01/2019,video,NO_CTA,video,76.18,40186,4,2,1,1102,200,Yes,5,Both,Persuading,2,1,7,6,no CTA at all,Positive,Economy,0,Professional,0,0,1,Grey
+612,Loto Paper Laundry,26/06/2019,video,NO_CTA,video,195.97,40123,132,70,18,9787,3329,Yes,5,Both,Persuading,2,1,9,5,no CTA at all,Positive,Health and lifestyle,0,Professional,0,0,0,Blue
+613,Heschsoft,02/07/2019,photo,NO_CTA,photo,98.94,40121,20,8,0,0,0,No,0,No person,Persuading,1,1,6,3,no CTA at all,Positive,Infrastructure,0,Professional,1,0,0,Green
+614,Great Rants,12/04/2019,link,learn_more,share,246.25,40088,75,19,24,0,0,No,0,No person,Informing,2,1,5,7,no CTA at all,Positive,Social issues,1,Professional,0,0,1,Blue
+615,Grece Foundation,16/04/2018,video,NO_CTA,video,113.86,40036,88,6,18,8897,8897,Yes,1,Woman,Persuading,2,7,7,3,CTA in text,Positive,Education,0,Professional,0,0,0,Blue
+616,NY Climate Collective,18/07/2019,video,NO_CTA,video,157.02,39987,44,58,17,6190,2963,Yes,1,Man,Persuading,2,1,8,7,CTA in text,Neutral,Environment,0,Professional,0,0,0,Magenta
+617,Spartan Consulting,20/08/2018,photo,NO_CTA,photo,137.43,39947,36,1,0,0,0,No,0,No person,Entertaining,9,9,1,2,CTA in both,Neutral,No topic,0,Professional,0,0,0,Blue
+618,NY Climate Collective,02/05/2019,photo,NO_CTA,photo,117.23,39937,1589,219,620,0,0,Yes,2,Man,Persuading,3,1,7,3,no CTA at all,Neutral,Economy,1,Professional,0,0,0,Magenta
+620,Great Rants,23/08/2018,share,NO_CTA,link,350,39855,439,33,84,0,0,Yes,1,Woman,Persuading,4,1,8,6,CTA in text,Positive,Other,1,Professional,0,0,1,Black
+622,Great Rants,28/04/2019,photo,NO_CTA,photo,206.27,39730,175,17,9,0,0,Yes,1,Woman,Persuading,2,1,7,3,no CTA at all,Positive,Social issues,1,Professional,1,0,0,Blue
+623,Spartan Consulting,26/06/2019,photo,NO_CTA,photo,78.28,39721,97,61,8,0,0,Yes,1,Woman,Informing,5,1,2,8,CTA in text,Neutral,International Politics,0,Professional,0,1,0,Blue
+624,Ted Hansen Campaign,07/05/2019,video,NO_CTA,video,197.62,39572,28,8,6,7010,4110,Yes,5,Both,Informing,4,2,6,8,no CTA at all,Positive,Economy,0,Professional,0,1,0,Yellow
+625,NY Climate Collective,21/03/2018,link,NO_CTA,share,250.42,39516,25,16,13,0,0,Yes,1,Man,Informing,2,1,7,8,CTA in text,Neutral,Finance,0,Professional,0,0,1,Grey
+627,NY Climate Collective,23/05/2019,photo,NO_CTA,photo,88.58,39475,261,72,39,0,0,No,0,No person,Persuading,4,1,8,6,CTA in text,Negative,Finance,0,Professional,1,0,0,Magenta
+628,Grece Foundation,01/05/2019,video,NO_CTA,video,282.6,39473,74,48,41,6707,1778,Yes,5,Both,Engaging,8,2,6,3,CTA in text,Positive,International Politics,1,Professional,0,0,0,Black
+629,Cargill Entertainment,17/07/2019,photo,NO_CTA,photo,56.68,39388,117,45,16,0,0,No,0,No person,Informing,2,5,4,8,no CTA at all,Positive,Economy,0,Professional,0,0,0,Blue
+630,Heschsoft,28/06/2019,video,NO_CTA,video,82.35,39336,1,1,0,457,69,Yes,2,Both,Engaging,8,2,6,4,CTA in creative,Positive,"Innovation, science and digitalization",0,Professional,1,0,1,White
+631,Liberty House,30/04/2019,photo,NO_CTA,photo,89.4,39334,416,134,19,0,0,Yes,5,Man,Persuading,1,1,7,5,no CTA at all,Positive,Security,1,Professional,0,0,0,Green
+633,Heschsoft,01/07/2019,photo,NO_CTA,photo,99.85,39258,14,2,1,0,0,Yes,2,Both,Persuading,3,1,8,5,CTA in text,Positive,Infrastructure,0,Professional,1,0,0,Magenta
+634,Heschsoft,17/12/2018,video,NO_CTA,video,100,39132,27,29,3,1068,472,Yes,1,Man,Persuading,1,1,8,7,no CTA at all,Positive,Social issues,0,Professional,0,0,1,Grey
+635,NY Climate Collective,05/09/2018,link,NO_CTA,share,168.84,38999,175,48,50,0,0,Yes,2,Man,Informing,1,8,7,8,no CTA at all,Neutral,Economy,0,Professional,0,0,1,Grey
+636,Grece Foundation,02/07/2018,link,NO_CTA,share,81.64,38998,90,13,24,0,0,Yes,1,Man,Persuading,4,1,7,5,CTA in text,Negative,Economy,0,Professional,0,0,0,White
+637,Grece Foundation,19/12/2018,photo,message_page,photo,62.54,38947,13,4,0,0,0,Yes,1,Man,Persuading,2,1,6,6,CTA in text,Positive,Social issues,0,Professional,0,0,0,Blue
+638,Ted Hansen Campaign,08/04/2019,photo,NO_CTA,photo,81.82,38788,200,23,12,0,0,No,0,No person,Informing,1,1,5,7,no CTA at all,Positive,Economy,0,Professional,0,1,0,Yellow
+640,Grece Foundation,15/10/2018,link,NO_CTA,share,106.27,38731,5,0,0,0,0,Yes,1,Man,Persuading,2,1,8,6,CTA in text,Negative,Finance,0,Professional,0,0,0,Black
+641,Spartan Consulting,19/06/2019,photo,NO_CTA,photo,118.86,38718,93,28,6,0,0,No,0,No person,Engaging,8,1,2,7,CTA in both,Neutral,Finance,0,Professional,0,1,0,Blue
+642,Grece Foundation,01/04/2019,link,NO_CTA,share,65.31,38420,84,15,14,0,0,Yes,1,Man,Persuading,2,1,7,7,CTA in text,Negative,Economy,0,Professional,0,0,0,White
+643,Cargill Entertainment,07/12/2018,photo,NO_CTA,photo,150.58,38283,57,43,3,0,0,Yes,3,Both,Engaging,1,1,3,4,CTA in both,Neutral,Economy,1,Professional,1,0,0,Blue
+645,Great Rants,12/04/2019,link,learn_more,share,242.8,38093,118,21,30,0,0,No,0,No person,Informing,2,1,4,8,no CTA at all,Positive,Social issues,1,Professional,0,0,1,Blue
+646,Spartan Consulting,26/07/2019,photo,NO_CTA,photo,54.11,38045,1,0,0,0,0,No,0,No person,Informing,1,4,3,8,no CTA at all,Neutral,Economy,0,Professional,0,0,1,Blue
+647,Ted Hansen Campaign,04/03/2019,photo,NO_CTA,photo,93.66,38040,157,9,13,0,0,Yes,1,Man,Persuading,1,1,7,3,no CTA at all,Neutral,Economy,0,Professional,0,0,0,Blue
+648,Grece Foundation,22/01/2019,photo,NO_CTA,photo,110.02,38029,133,2,18,0,0,No,0,No person,Informing,2,1,5,8,no CTA at all,Positive,Economy,0,Professional,0,0,0,Blue
+649,Ted Hansen Campaign,30/10/2018,photo,NO_CTA,photo,145.99,37999,129,6,21,0,0,No,0,No person,Persuading,2,1,7,3,no CTA at all,Positive,Economy,0,Professional,0,0,0,Yellow
+650,Great Rants,08/04/2019,video,learn_more,video,268.28,37968,256,22,53,1060,656,Yes,1,Man,Persuading,5,1,7,3,CTA in creative,Positive,Social issues,1,Professional,0,0,1,Blue
+651,Heschsoft,06/06/2019,photo,NO_CTA,photo,53.15,37859,4,0,0,0,0,Yes,1,Woman,Persuading,5,1,7,3,CTA in text,Positive,Education,0,Professional,0,0,0,Blue
+652,Great Rants,12/04/2019,link,learn_more,share,249.44,37746,90,24,34,0,0,No,0,No person,Informing,2,1,5,8,no CTA at all,Positive,Social issues,1,Professional,0,0,1,Blue
+653,Cargill Entertainment,20/04/2018,video,NO_CTA,video,132.14,37736,2,0,0,272,65,No,0,No person,Engaging,8,1,6,3,CTA in creative,Positive,Economy,0,Professional,0,0,1,Blue
+654,Grece Foundation,13/06/2018,photo,NO_CTA,photo,148.24,37715,6,0,0,0,0,No,0,No person,Persuading,5,3,7,4,CTA in text,Positive,"Innovation, science and digitalization",0,Professional,0,0,1,Yellow
+655,Great Rants,12/04/2019,link,learn_more,share,246.53,37618,97,25,32,0,0,No,0,No person,Informing,2,1,5,8,CTA in creative,Positive,Social issues,1,Professional,0,0,1,Blue
+656,NY Climate Collective,09/05/2019,photo,NO_CTA,photo,73.1,37534,17,2,0,0,0,No,0,No person,Engaging,9,2,4,3,CTA in both,Positive,International Politics,1,Professional,0,0,1,Blue
+657,Grece Foundation,19/02/2019,photo,NO_CTA,photo,76.01,37526,452,70,181,0,0,No,0,No person,Informing,2,1,4,9,CTA in text,Neutral,Finance,0,Professional,0,0,0,Yellow
+658,NY Climate Collective,14/06/2019,photo,NO_CTA,photo,37.89,37463,63,1,4,0,0,No,0,No person,Informing,2,5,2,7,no CTA at all,Positive,Health and lifestyle,0,Professional,0,0,0,Magenta
+659,Great Rants,12/04/2019,link,learn_more,share,246.11,37364,93,25,27,0,0,No,0,No person,Informing,2,1,4,8,CTA in creative,Positive,Social issues,1,Professional,0,0,1,Blue
+660,Cargill Entertainment,31/12/2017,video,NO_CTA,video,84.24,37310,134,5,13,1439,663,No,0,No person,Entertaining,3,6,1,1,no CTA at all,Positive,No topic,0,Professional,0,0,0,Black
+661,Grece Foundation,19/09/2018,video,NO_CTA,video,206.75,37306,59,3,1,3838,3403,No,0,No person,Informing,2,4,2,8,no CTA at all,Positive,Economy,0,Professional,0,0,0,White
+662,Sound Green Toronto,17/06/2019,video,subscribe,video,350.65,37256,0,0,0,438,303,Yes,5,Both,Persuading,6,8,8,2,CTA in creative,Positive,Other,1,Professional,0,0,0,Black
+663,Spartan Consulting,27/05/2019,status,NO_CTA,album,75.34,37188,7,7,0,0,0,No,0,No person,Informing,4,1,8,8,CTA in text,Neutral,International Politics,1,Professional,0,0,1,Blue
+664,Spartan Consulting,04/01/2019,photo,NO_CTA,photo,103.38,37174,60,4,7,0,0,No,0,No person,Informing,1,1,2,9,no CTA at all,Positive,Finance,0,Professional,0,0,1,Blue
+665,Grece Foundation,24/08/2018,link,NO_CTA,share,92.34,37168,7,0,3,0,0,Yes,1,Man,Informing,2,1,4,7,no CTA at all,Neutral,Finance,0,Professional,0,0,0,Black
+666,NY Climate Collective,17/09/2018,photo,NO_CTA,photo,74.06,36974,233,69,16,0,0,Yes,5,Both,Persuading,2,2,8,5,no CTA at all,Neutral,Finance,0,Professional,1,0,0,Magenta
+669,Narisoft,28/02/2019,photo,NO_CTA,photo,108.05,36790,621,119,115,0,0,Yes,1,Man,Persuading,4,2,7,3,no CTA at all,Negative,"Innovation, science and digitalization",0,Professional,0,0,0,Yellow
+673,Spartan Consulting,22/11/2018,photo,NO_CTA,photo,142.25,36397,78,4,10,0,0,Yes,1,Man,Informing,1,1,2,9,CTA in text,Neutral,Finance,0,Professional,0,1,0,Blue
+677,Liberty House,21/02/2019,photo,NO_CTA,photo,162.86,36200,143,18,60,0,0,No,0,No person,Persuading,6,3,7,2,CTA in text,Neutral,Other,0,Professional,0,0,0,Orange
+681,Narisoft,03/08/2018,photo,NO_CTA,photo,47.49,36105,3,3,0,0,0,No,0,No person,Engaging,8,6,1,2,CTA in both,Neutral,Other,0,Professional,0,0,0,Other
+690,Spartan Consulting,13/11/2018,photo,NO_CTA,photo,103.12,35560,60,20,8,0,0,No,0,No person,Informing,1,1,1,9,no CTA at all,Neutral,Finance,0,Professional,0,1,0,Blue
+698,Narisoft,14/05/2018,photo,NO_CTA,photo,183.82,34746,1585,164,701,0,0,No,0,No person,Entertaining,6,8,1,3,CTA in both,Neutral,Health and lifestyle,0,Professional,0,0,0,Yellow
+700,Narisoft,25/04/2019,photo,NO_CTA,photo,111.7,34700,458,175,62,0,0,Yes,1,Man,Engaging,8,1,2,6,CTA in both,Neutral,International Politics,0,Professional,0,0,0,Blue
+702,Loto Paper Laundry,16/07/2019,video,NO_CTA,video,90.34,34658,200,102,38,8281,2858,Yes,5,Both,Persuading,2,1,7,5,no CTA at all,Positive,Health and lifestyle,0,Professional,0,0,0,White
+727,Narisoft,07/03/2018,video,NO_CTA,video,190.51,33623,729,128,667,10015,9347,No,0,No person,Entertaining,2,9,4,1,CTA in text,Neutral,Finance,0,Professional,0,0,0,Yellow
+730,Narisoft,19/07/2018,photo,NO_CTA,photo,145.78,33566,347,73,221,0,0,Yes,1,Man,Persuading,5,3,7,5,CTA in text,Negative,Health and lifestyle,0,Professional,0,0,0,Yellow
+733,Spartan Consulting,23/01/2019,photo,NO_CTA,photo,102.7,33504,65,2,14,0,0,No,0,No person,Informing,1,1,1,9,no CTA at all,Neutral,International Politics,0,Professional,0,1,0,Blue
+737,Narisoft,23/02/2019,photo,NO_CTA,photo,91.67,33339,183,62,15,0,0,Yes,1,Man,Engaging,8,3,1,3,CTA in creative,Neutral,Health and lifestyle,0,Professional,0,0,0,Yellow
+740,Pierce Associates,02/09/2019,video,NO_CTA,video,162.1,33227,103,63,5,6658,2417,Yes,2,Both,Persuading,1,1,9,5,no CTA at all,Positive,Other,1,Professional,0,0,0,Blue
+755,Spartan Consulting,20/02/2019,status,NO_CTA,album,71.17,32556,41,0,1,0,0,Yes,5,Man,Informing,2,1,1,9,CTA in text,Neutral,Finance,0,Professional,0,0,0,Blue
+768,Spartan Consulting,13/08/2018,photo,NO_CTA,photo,148.24,31836,135,14,14,0,0,No,0,No person,Engaging,9,1,5,7,CTA in text,Neutral,Finance,0,Professional,0,1,0,Blue
+774,Spartan Consulting,13/06/2019,photo,NO_CTA,photo,91.37,31388,294,22,6,0,0,No,0,No person,Engaging,9,3,1,4,CTA in both,Neutral,International Politics,0,Professional,0,0,0,Blue
+790,Spartan Consulting,03/07/2019,photo,NO_CTA,photo,59.49,30670,508,196,37,0,0,Yes,2,Woman,Informing,5,1,1,8,no CTA at all,Neutral,International Politics,0,Professional,0,1,0,Blue
+791,Narisoft,15/03/2019,photo,NO_CTA,photo,118.45,30659,731,168,165,0,0,No,0,No person,Informing,1,4,2,7,no CTA at all,Neutral,Other,0,Professional,0,0,0,Yellow
+795,Spartan Consulting,27/02/2019,photo,NO_CTA,photo,126.45,30516,52,0,1,0,0,No,0,No person,Informing,2,1,1,9,no CTA at all,Neutral,Finance,0,Professional,0,1,0,Blue
+796,Spartan Consulting,12/07/2019,video,NO_CTA,video,155.6,30439,43,42,5,4713,1967,Yes,1,Man,Persuading,3,1,7,5,no CTA at all,Positive,Environment,0,Professional,0,0,0,Green
+824,Liberty House,30/01/2019,photo,NO_CTA,photo,85.41,29401,26,10,4,0,0,Yes,2,Man,Persuading,2,1,6,2,no CTA at all,Neutral,Other,0,Professional,0,0,0,Orange
+828,Narisoft,24/05/2018,photo,NO_CTA,photo,189.75,29300,1986,95,607,0,0,No,0,No person,Persuading,4,2,7,1,CTA in text,Positive,Health and lifestyle,0,Professional,0,0,0,White
+830,Spartan Consulting,27/11/2018,photo,NO_CTA,photo,186.07,29259,160,20,12,0,0,Yes,5,Both,Informing,1,1,1,9,no CTA at all,Neutral,International Politics,1,Professional,0,1,0,Blue
+831,Narisoft,10/09/2018,photo,NO_CTA,photo,96.07,29222,265,58,145,0,0,Yes,2,Both,Persuading,4,4,7,5,CTA in text,Neutral,Health and lifestyle,0,Professional,0,0,0,Yellow
+838,Spartan Consulting,10/12/2018,photo,NO_CTA,photo,84.35,28925,94,9,10,0,0,Yes,1,Woman,Informing,1,1,1,9,no CTA at all,Neutral,No topic,0,Professional,0,0,0,Blue
+843,Narisoft,10/08/2018,photo,NO_CTA,photo,94.83,28856,308,21,132,0,0,No,0,No person,Persuading,2,1,7,2,no CTA at all,Positive,Finance,0,Professional,0,0,0,Yellow
+847,Pierce Associates,19/07/2019,video,NO_CTA,video,132.06,28752,136,95,13,3018,1178,Yes,5,Both,Persuading,6,1,9,4,no CTA at all,Positive,Other,1,Professional,1,0,0,White
+853,Liberty House,23/09/2018,photo,NO_CTA,photo,112.62,28547,104,24,11,0,0,Yes,1,Man,Persuading,2,1,8,3,no CTA at all,Neutral,Infrastructure,0,Professional,0,0,0,Orange
+854,Narisoft,02/08/2019,photo,NO_CTA,photo,38.68,28525,71,5,16,0,0,Yes,3,Both,Informing,1,2,4,7,no CTA at all,Positive,Finance,0,Professional,0,0,0,Yellow
+862,Loto Paper Laundry,25/06/2019,photo,NO_CTA,photo,62.41,28223,46,4,6,0,0,No,0,No person,Informing,1,1,4,8,no CTA at all,Neutral,Health and lifestyle,0,Professional,0,0,0,Orange
+863,Liberty House,20/03/2019,video,NO_CTA,video,66.33,28221,12,9,5,1310,433,Yes,5,Both,Informing,7,1,3,9,CTA in both,Neutral,Education,0,Professional,0,0,0,White
+865,Spartan Consulting,17/01/2019,photo,NO_CTA,photo,112.82,28068,65,7,14,0,0,No,0,No person,Informing,1,1,1,9,no CTA at all,Neutral,Other,1,Professional,0,1,0,Blue
+868,Narisoft,12/06/2019,photo,NO_CTA,photo,46.86,27963,328,59,7,0,0,No,0,No person,Engaging,9,2,1,6,CTA in both,Neutral,Environment,0,Professional,0,0,0,Yellow
+883,Capitol Hill United,13/05/2019,link,apply_now,share,225.9,27589,64,0,2,0,0,Yes,3,Both,Persuading,6,1,8,2,CTA in text,Positive,Education,0,Professional,0,0,0,Blue
+885,Spartan Consulting,06/03/2019,photo,NO_CTA,photo,70.8,27510,31,1,1,0,0,No,0,No person,Informing,1,1,1,9,no CTA at all,Neutral,Finance,0,Professional,0,1,0,Blue
+887,Narisoft,03/10/2018,photo,NO_CTA,photo,73.3,27459,62,18,10,0,0,Yes,1,Woman,Engaging,9,1,1,1,CTA in both,Positive,Culture,0,Professional,0,0,0,White
+904,Pierce Associates,08/09/2019,photo,NO_CTA,photo,68.7,27146,8,2,0,0,0,Yes,1,Man,Persuading,3,1,7,4,CTA in text,Positive,No topic,1,Professional,0,0,0,Blue
+920,Liberty House,08/05/2019,photo,NO_CTA,photo,68.89,26655,41,24,2,0,0,No,0,No person,Informing,4,1,3,9,CTA in text,Neutral,Education,0,Professional,1,0,0,Blue
+926,Narisoft,21/09/2018,photo,NO_CTA,photo,141.31,26564,136,10,14,0,0,No,0,No person,Entertaining,5,7,1,3,CTA in text,Neutral,No topic,0,Professional,0,0,0,Yellow
+942,Narisoft,29/08/2019,photo,NO_CTA,photo,46.13,25807,88,10,0,0,0,Yes,1,Man,Engaging,9,3,1,3,CTA in both,Neutral,Other,0,Professional,0,0,0,Yellow
+947,Town Of Scottsdale,28/06/2018,video,NO_CTA,video,100,25701,4,1,0,4854,2193,Yes,2,Woman,Informing,2,1,3,7,no CTA at all,Positive,Health and lifestyle,0,Professional,0,0,0,Yellow
+977,Spartan Consulting,06/02/2019,photo,NO_CTA,photo,76.53,24472,422,71,6,0,0,No,0,No person,Engaging,9,1,1,6,CTA in both,Neutral,Finance,0,Professional,0,1,0,Blue
+983,Liberty House,07/02/2019,photo,NO_CTA,photo,70.21,24186,84,6,14,0,0,Yes,1,Woman,Persuading,1,1,7,4,no CTA at all,Neutral,Education,0,Professional,0,0,0,Blue
+993,Narisoft,04/07/2019,photo,NO_CTA,photo,42.28,23762,1087,239,48,0,0,Yes,1,Woman,Engaging,9,1,1,3,CTA in both,Neutral,International Politics,0,Professional,0,0,0,Black
+1011,Narisoft,06/09/2019,photo,NO_CTA,photo,44.28,23344,65,40,3,0,0,Yes,1,Man,Informing,3,1,4,7,CTA in text,Neutral,Finance,0,Professional,0,0,0,Yellow
+1023,Narisoft,08/08/2018,photo,NO_CTA,photo,80,23075,265,29,24,0,0,Yes,4,Both,Engaging,9,1,1,3,CTA in both,Neutral,"Innovation, science and digitalization",0,Professional,0,0,0,Yellow
+1024,Narisoft,27/08/2018,photo,NO_CTA,photo,59.52,23069,123,27,16,0,0,Yes,1,Man,Engaging,9,2,1,2,CTA in both,Neutral,Finance,0,Professional,0,0,0,Yellow
+1026,Liberty House,30/01/2019,photo,NO_CTA,photo,91.26,23045,73,17,26,0,0,No,0,No person,Informing,2,1,1,6,no CTA at all,Neutral,Finance,0,Professional,0,0,0,Yellow
+1050,Loto Paper Laundry,01/02/2019,share,NO_CTA,link,100,22421,170,45,17,0,0,Yes,1,Man,Informing,2,1,3,8,CTA in text,Neutral,Health and lifestyle,0,Professional,0,0,0,Black
+1097,Capitol Hill United,24/06/2019,photo,NO_CTA,photo,239.7,21402,5,0,2,0,0,No,0,No person,Engaging,8,1,1,4,CTA in both,Neutral,"Innovation, science and digitalization",0,Professional,0,0,0,Blue
+1118,Liberty House,07/08/2019,photo,NO_CTA,photo,40.4,20972,8,2,3,0,0,Yes,1,Man,Persuading,2,1,7,5,no CTA at all,Neutral,Finance,0,Professional,0,0,0,Orange
+1122,Capitol Hill United,08/05/2019,link,sign_up,share,152.74,20891,30,28,7,0,0,Yes,2,Both,Informing,7,1,2,8,CTA in creative,Neutral,Economy,0,Professional,0,0,0,Blue
+1127,Loto Paper Laundry,22/07/2019,photo,NO_CTA,photo,59.78,20821,32,14,4,0,0,Yes,1,Man,Persuading,1,1,7,4,no CTA at all,Neutral,Health and lifestyle,0,Professional,0,0,0,White
+1155,Liberty House,13/11/2018,video,NO_CTA,video,73.43,20000,6,2,0,681,178,Yes,3,Man,Persuading,1,1,8,5,CTA in text,Neutral,Environment,0,Professional,0,0,0,Green
+1161,Loto Paper Laundry,06/07/2019,video,NO_CTA,video,67.67,19896,82,18,17,4487,1087,Yes,1,Man,Persuading,1,1,9,3,no CTA at all,Positive,Health and lifestyle,0,Professional,0,0,0,White
+1204,Loto Paper Laundry,11/04/2019,video,NO_CTA,video,47.19,18916,23,14,3,2219,682,Yes,5,Both,Persuading,2,1,9,5,no CTA at all,Positive,Health and lifestyle,0,Professional,0,0,0,Black
+1226,Liberty House,08/02/2019,photo,NO_CTA,photo,57,18542,55,18,4,0,0,No,0,No person,Persuading,2,6,7,4,no CTA at all,Negative,No topic,0,Professional,0,0,0,Orange
+1238,Liberty House,04/12/2018,photo,NO_CTA,photo,70.5,18184,102,14,45,0,0,No,0,No person,Persuading,1,1,7,3,no CTA at all,Negative,Other,0,Professional,0,0,0,Orange
+1279,Liberty House,19/12/2018,video,NO_CTA,video,56.69,17074,7,0,2,807,233,Yes,3,Both,Informing,2,1,7,8,CTA in text,Neutral,Environment,0,Professional,0,0,0,Green
+1284,Loto Paper Laundry,10/05/2019,video,NO_CTA,video,67.2,16979,22,4,9,3673,2342,Yes,2,Man,Informing,2,1,4,8,CTA in both,Neutral,Health and lifestyle,0,Professional,1,0,0,Blue
+1318,Loto Paper Laundry,24/07/2019,video,NO_CTA,video,54.34,16016,49,11,10,3815,1230,Yes,1,Man,Persuading,3,1,8,2,no CTA at all,Positive,Health and lifestyle,0,Professional,0,0,0,Green
+1319,Pierce Associates,15/03/2019,video,NO_CTA,video,75.68,16012,22,20,8,2291,1958,No,0,No person,Persuading,2,3,8,7,CTA in text,Neutral,Finance,0,Professional,0,0,0,Grey
+1372,Liberty House,24/01/2019,photo,NO_CTA,photo,35.14,14859,12,3,1,0,0,Yes,1,Man,Informing,1,1,2,7,no CTA at all,Positive,Other,0,Professional,0,0,0,Black
+1384,Liberty House,26/03/2019,photo,NO_CTA,photo,104.27,14640,32,17,7,0,0,Yes,2,Woman,Persuading,4,1,7,2,CTA in text,Positive,Education,0,Professional,1,0,0,Other
+1463,Loto Paper Laundry,07/12/2018,photo,NO_CTA,photo,72.33,13187,201,45,4,0,0,Yes,1,Man,Informing,1,1,2,5,no CTA at all,Positive,No topic,0,Professional,0,0,0,Black
+1464,Loto Paper Laundry,11/03/2019,share,learn_more,link,64,13183,34,37,9,0,0,Yes,3,Both,Persuading,1,1,7,4,no CTA at all,Positive,Health and lifestyle,0,Professional,0,0,0,White
+1494,Pierce Associates,09/09/2019,video,NO_CTA,video,83.83,12644,17,4,1,2888,935,Yes,5,Both,Persuading,2,1,9,4,no CTA at all,Positive,No topic,1,Professional,1,0,0,Green
+1542,Loto Paper Laundry,07/11/2018,photo,NO_CTA,photo,92.47,11863,609,91,50,0,0,Yes,1,Man,Engaging,8,1,6,4,CTA in text,Positive,International Politics,1,Professional,0,0,0,Blue
+1746,Town Of Scottsdale,05/03/2019,video,NO_CTA,video,16.42,9255,0,0,0,106,36,Yes,5,Both,Persuading,1,2,8,7,no CTA at all,Neutral,Finance,1,Professional,0,0,0,Black
+1809,Town Of Scottsdale,16/08/2018,video,NO_CTA,video,50,8434,9,2,4,1149,421,Yes,5,Both,Persuading,2,1,9,8,no CTA at all,Positive,"Innovation, science and digitalization",1,Professional,0,0,0,Black
+1884,New Belgium Party,06/04/2018,photo,NO_CTA,photo,52.76,7621,12,2,1,0,0,Yes,2,Both,Engaging,9,1,2,4,no CTA at all,Neutral,No topic,1,Professional,0,0,0,Blue
+1927,Pierce Associates,29/08/2019,video,NO_CTA,video,39.09,7190,11,0,0,926,214,Yes,5,Both,Engaging,9,2,7,4,CTA in text,Positive,No topic,1,Professional,1,0,0,Blue
+2333,Pierce Associates,11/09/2019,photo,NO_CTA,photo,14.96,4687,6,1,0,0,0,Yes,1,Woman,Persuading,3,5,7,4,no CTA at all,Neutral,Infrastructure,1,Professional,1,0,0,Grey
+2457,The Taylor Project,28/09/2017,share,learn_more,link,30,4166,9,17,0,0,0,Yes,1,Man,Engaging,9,1,3,5,CTA in both,Positive,No topic,0,Professional,0,0,0,White
+2639,New Belgium Party,10/04/2018,photo,NO_CTA,photo,39.88,3401,26,5,6,0,0,Yes,1,Woman,Persuading,2,1,8,3,no CTA at all,Neutral,Education,1,Professional,0,0,0,Orange
+2686,New Belgium Party,12/04/2018,photo,NO_CTA,photo,35.79,3273,14,3,3,0,0,Yes,1,Woman,Persuading,2,1,7,3,no CTA at all,Neutral,Security,1,Professional,0,0,0,Orange
+3119,New Belgium Party,14/04/2018,photo,NO_CTA,photo,17.5,2182,7,1,2,0,0,Yes,1,Woman,Persuading,2,1,7,3,no CTA at all,Neutral,Education,1,Professional,0,0,0,Orange
+3303,Pierce Associates,22/10/2018,video,NO_CTA,video,11.97,1875,21,10,5,420,218,Yes,5,Both,Persuading,3,1,10,3,no CTA at all,Positive,No topic,1,Professional,1,0,0,Black
+3634,New Belgium Party,08/04/2018,photo,NO_CTA,photo,10.92,1476,29,0,8,0,0,Yes,2,Both,Persuading,1,1,7,4,no CTA at all,Positive,Environment,1,Professional,0,0,0,Orange
