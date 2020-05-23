@@ -1,0 +1,12 @@
+name: AdDash
+title: AdDash
+username:
+account: rishabh-kanojia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2346975
+bundleId: 3182477
+url: https://rishabh-kanojia.shinyapps.io/AdDash/
+when: 1590262739.24319
+asMultiple: FALSE
+asStatic: FALSE
